@@ -1,0 +1,2013 @@
+<td><span style="display:none">Afghanistan</span><a href="/wiki/Afghanistan" title="Afghanistan"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/20px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/30px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/40px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a></td>
+<td><a href="/wiki/Kabul" title="Kabul">Kabul</a>
+</td>
+<td style="text-align:right">3.298.000
+</td>
+<td style="text-align:right">2012
+</td>
+<td><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Agypten</span><a href="/wiki/%C3%84gypten" title="Ägypten"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/20px-Flag_of_Egypt.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/30px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/40px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/%C3%84gypten" title="Ägypten">Ägypten</a></td>
+<td><a href="/wiki/Kairo" title="Kairo">Kairo</a>
+</td>
+<td style="text-align:right">4.960.600
+</td>
+<td style="text-align:right">2017
+</td>
+<td><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Albanien</span><a href="/wiki/Albanien" title="Albanien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/20px-Flag_of_Albania.svg.png" decoding="async" width="20" height="14" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/30px-Flag_of_Albania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/40px-Flag_of_Albania.svg.png 2x" data-file-width="980" data-file-height="700" /></a>&#160;<a href="/wiki/Albanien" title="Albanien">Albanien</a></td>
+<td><a href="/wiki/Tirana" title="Tirana">Tirana</a>
+</td>
+<td style="text-align:right">418.500
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-instattr2011_3-0" class="reference"><a href="#cite_note-instattr2011-3">&#91;3&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Algerien</span><a href="/wiki/Algerien" title="Algerien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/20px-Flag_of_Algeria.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/30px-Flag_of_Algeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/40px-Flag_of_Algeria.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Algerien" title="Algerien">Algerien</a></td>
+<td><a href="/wiki/Algier" title="Algier">Algier</a>
+</td>
+<td style="text-align:right">2.159.000
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Andorra</span><a href="/wiki/Andorra" title="Andorra"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/20px-Flag_of_Andorra.svg.png" decoding="async" width="20" height="14" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/30px-Flag_of_Andorra.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/40px-Flag_of_Andorra.svg.png 2x" data-file-width="1000" data-file-height="700" /></a>&#160;<a href="/wiki/Andorra" title="Andorra">Andorra</a></td>
+<td><a href="/wiki/Andorra_la_Vella" title="Andorra la Vella">Andorra la Vella</a>
+</td>
+<td style="text-align:right">19.900
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Angola</span><a href="/wiki/Angola" title="Angola"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/20px-Flag_of_Angola.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/30px-Flag_of_Angola.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/40px-Flag_of_Angola.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Angola" title="Angola">Angola</a></td>
+<td><a href="/wiki/Luanda" title="Luanda">Luanda</a>
+</td>
+<td style="text-align:right">6.377.200
+</td>
+<td style="text-align:right">2014
+</td>
+<td>für Provinz<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Antigua und Barbuda</span><a href="/wiki/Antigua_und_Barbuda" title="Antigua und Barbuda"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/20px-Flag_of_Antigua_and_Barbuda.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/30px-Flag_of_Antigua_and_Barbuda.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/40px-Flag_of_Antigua_and_Barbuda.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Antigua_und_Barbuda" title="Antigua und Barbuda">Antigua und Barbuda</a></td>
+<td><a href="/wiki/Saint_John%E2%80%99s_(Antigua_und_Barbuda)" title="Saint John’s (Antigua und Barbuda)">St. John’s</a>
+</td>
+<td style="text-align:right">21.600
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2"><span style="display:none">Äquatorialguinea</span><a href="/wiki/%C3%84quatorialguinea" title="Äquatorialguinea"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/20px-Flag_of_Equatorial_Guinea.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/30px-Flag_of_Equatorial_Guinea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/40px-Flag_of_Equatorial_Guinea.svg.png 2x" data-file-width="1200" data-file-height="800" /></a>&#160;<a href="/wiki/%C3%84quatorialguinea" title="Äquatorialguinea">Äquatorialguinea</a></td>
+<td><a href="/wiki/Malabo" title="Malabo">Malabo</a>
+</td>
+<td style="text-align:right">299.800
+</td>
+<td style="text-align:right">2015
+</td>
+<td>für Provinz<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ciudad_de_la_Paz" title="Ciudad de la Paz">Ciudad de la Paz</a> <i>(Regierungssitz)</i>
+</td>
+<td style="text-align:right">
+</td>
+<td style="text-align:right">
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span style="display:none">Argentinien</span><a href="/wiki/Argentinien" title="Argentinien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/20px-Flag_of_Argentina.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/30px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/40px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a>&#160;<a href="/wiki/Argentinien" title="Argentinien">Argentinien</a></td>
+<td><a href="/wiki/Buenos_Aires" title="Buenos Aires">Buenos Aires</a>
+</td>
+<td style="text-align:right">5.383.500
+</td>
+<td style="text-align:right">2010
+</td>
+<td>für Provinz<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Armenien</span><a href="/wiki/Armenien" title="Armenien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/20px-Flag_of_Armenia.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/30px-Flag_of_Armenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/40px-Flag_of_Armenia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Armenien" title="Armenien">Armenien</a></td>
+<td><a href="/wiki/Jerewan" title="Jerewan">Jerewan</a>
+</td>
+<td style="text-align:right">1.570.800
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Aserbaidschan</span><a href="/wiki/Aserbaidschan" title="Aserbaidschan"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/20px-Flag_of_Azerbaijan.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/30px-Flag_of_Azerbaijan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/40px-Flag_of_Azerbaijan.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Aserbaidschan" title="Aserbaidschan">Aserbaidschan</a></td>
+<td><a href="/wiki/Baku" title="Baku">Baku</a>
+</td>
+<td style="text-align:right">2.204.200
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Athiopien</span><a href="/wiki/%C3%84thiopien" title="Äthiopien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/20px-Flag_of_Ethiopia.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/30px-Flag_of_Ethiopia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/40px-Flag_of_Ethiopia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/%C3%84thiopien" title="Äthiopien">Äthiopien</a></td>
+<td><a href="/wiki/Addis_Abeba" title="Addis Abeba">Addis Abeba</a>
+</td>
+<td style="text-align:right">3.273.000
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Australien</span><a href="/wiki/Australien" title="Australien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/20px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/30px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/40px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a>&#160;<a href="/wiki/Australien" title="Australien">Australien</a></td>
+<td><a href="/wiki/Canberra" title="Canberra">Canberra</a>
+</td>
+<td style="text-align:right">168.500
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Bahamas</span><a href="/wiki/Bahamas" title="Bahamas"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/20px-Flag_of_the_Bahamas.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/30px-Flag_of_the_Bahamas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/40px-Flag_of_the_Bahamas.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Bahamas" title="Bahamas">Bahamas</a></td>
+<td><a href="/wiki/Nassau_(Bahamas)" title="Nassau (Bahamas)">Nassau</a>
+</td>
+<td style="text-align:right">246.300
+</td>
+<td style="text-align:right">2010
+</td>
+<td>für Provinz<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Bahrain</span><a href="/wiki/Bahrain" title="Bahrain"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/20px-Flag_of_Bahrain.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/30px-Flag_of_Bahrain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/40px-Flag_of_Bahrain.svg.png 2x" data-file-width="1500" data-file-height="900" /></a>&#160;<a href="/wiki/Bahrain" title="Bahrain">Bahrain</a></td>
+<td><a href="/wiki/Manama" title="Manama">Manama</a>
+</td>
+<td style="text-align:right">329.500
+</td>
+<td style="text-align:right">2012
+</td>
+<td><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Bangladesch</span><a href="/wiki/Bangladesch" title="Bangladesch"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/20px-Flag_of_Bangladesh.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/30px-Flag_of_Bangladesh.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/40px-Flag_of_Bangladesh.svg.png 2x" data-file-width="1000" data-file-height="600" /></a>&#160;<a href="/wiki/Bangladesch" title="Bangladesch">Bangladesch</a></td>
+<td><a href="/wiki/Dhaka" title="Dhaka">Dhaka</a>
+</td>
+<td style="text-align:right">6.970.100
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Barbados</span><a href="/wiki/Barbados" title="Barbados"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/20px-Flag_of_Barbados.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/30px-Flag_of_Barbados.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/40px-Flag_of_Barbados.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a>&#160;<a href="/wiki/Barbados" title="Barbados">Barbados</a></td>
+<td><a href="/wiki/Bridgetown" title="Bridgetown">Bridgetown</a>
+</td>
+<td style="text-align:right">88.500
+</td>
+<td style="text-align:right">2010
+</td>
+<td>für Gemeinde<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Belarus</span><a href="/wiki/Belarus" title="Belarus"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/20px-Flag_of_Belarus.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/30px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/40px-Flag_of_Belarus.svg.png 2x" data-file-width="900" data-file-height="450" /></a>&#160;<a href="/wiki/Belarus" title="Belarus">Belarus</a></td>
+<td><a href="/wiki/Minsk" title="Minsk">Minsk</a>
+</td>
+<td style="text-align:right">1.921.800
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Belgien</span><a href="/wiki/Belgien" title="Belgien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/20px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/30px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/40px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Belgien" title="Belgien">Belgien</a></td>
+<td><a href="/wiki/Br%C3%BCssel" title="Brüssel">Brüssel</a>
+</td>
+<td style="text-align:right">180.400
+</td>
+<td style="text-align:right">2016
+</td>
+<td><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Belize</span><a href="/wiki/Belize" title="Belize"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/20px-Flag_of_Belize.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/30px-Flag_of_Belize.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/40px-Flag_of_Belize.svg.png 2x" data-file-width="1000" data-file-height="600" /></a>&#160;<a href="/wiki/Belize" title="Belize">Belize</a></td>
+<td><a href="/wiki/Belmopan" title="Belmopan">Belmopan</a>
+</td>
+<td style="text-align:right">13.900
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Benin</span><a href="/wiki/Benin" title="Benin"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/30px-Flag_of_Benin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/40px-Flag_of_Benin.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Benin" title="Benin">Benin</a></td>
+<td><a href="/wiki/Porto-Novo" title="Porto-Novo">Porto Novo</a>
+</td>
+<td style="text-align:right">264.300
+</td>
+<td style="text-align:right">2013
+</td>
+<td><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Bhutan</span><a href="/wiki/Bhutan" title="Bhutan"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/20px-Flag_of_Bhutan.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/30px-Flag_of_Bhutan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/40px-Flag_of_Bhutan.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Bhutan" title="Bhutan">Bhutan</a></td>
+<td><a href="/wiki/Thimphu" title="Thimphu">Thimphu</a>
+</td>
+<td style="text-align:right">138.700
+</td>
+<td style="text-align:right">2017
+</td>
+<td>für den Distrikt<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2"><span style="display:none">Bolivien</span><a href="/wiki/Bolivien" title="Bolivien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/20px-Flag_of_Bolivia.svg.png" decoding="async" width="20" height="14" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/30px-Flag_of_Bolivia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/40px-Flag_of_Bolivia.svg.png 2x" data-file-width="1100" data-file-height="750" /></a>&#160;<a href="/wiki/Bolivien" title="Bolivien">Bolivien</a></td>
+<td><a href="/wiki/Sucre" title="Sucre">Sucre</a> <i>(de jure)</i>
+</td>
+<td style="text-align:right">261.200
+</td>
+<td style="text-align:right">2012
+</td>
+<td><sup id="cite_ref-bolivien_23-0" class="reference"><a href="#cite_note-bolivien-23">&#91;23&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/La_Paz" title="La Paz">La Paz</a> <i>(Regierungssitz)</i>
+</td>
+<td style="text-align:right">766.500
+</td>
+<td style="text-align:right">2012
+</td>
+<td><sup id="cite_ref-bolivien_23-1" class="reference"><a href="#cite_note-bolivien-23">&#91;23&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Bosnien und Herzegowina</span><a href="/wiki/Bosnien_und_Herzegowina" title="Bosnien und Herzegowina"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/20px-Flag_of_Bosnia_and_Herzegovina.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/30px-Flag_of_Bosnia_and_Herzegovina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png 2x" data-file-width="800" data-file-height="400" /></a>&#160;<a href="/wiki/Bosnien_und_Herzegowina" title="Bosnien und Herzegowina">Bosnien und Herzegowina</a></td>
+<td><a href="/wiki/Sarajevo" title="Sarajevo">Sarajevo</a>
+</td>
+<td style="text-align:right">438.400
+</td>
+<td style="text-align:right">2013
+</td>
+<td><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Botswana</span><a href="/wiki/Botswana" title="Botswana"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/20px-Flag_of_Botswana.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/30px-Flag_of_Botswana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/40px-Flag_of_Botswana.svg.png 2x" data-file-width="1200" data-file-height="800" /></a>&#160;<a href="/wiki/Botswana" title="Botswana">Botswana</a></td>
+<td><a href="/wiki/Gaborone" title="Gaborone">Gaborone</a>
+</td>
+<td style="text-align:right">231.600
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Brasilien</span><a href="/wiki/Brasilien" title="Brasilien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/20px-Flag_of_Brazil.svg.png" decoding="async" width="20" height="14" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/30px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/40px-Flag_of_Brazil.svg.png 2x" data-file-width="1060" data-file-height="742" /></a>&#160;<a href="/wiki/Brasilien" title="Brasilien">Brasilien</a></td>
+<td><a href="/wiki/Bras%C3%ADlia" title="Brasília">Brasília</a>
+</td>
+<td style="text-align:right">2.570.200
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Brunei</span><a href="/wiki/Brunei" title="Brunei"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/20px-Flag_of_Brunei.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/30px-Flag_of_Brunei.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/40px-Flag_of_Brunei.svg.png 2x" data-file-width="1440" data-file-height="720" /></a>&#160;<a href="/wiki/Brunei" title="Brunei">Brunei</a></td>
+<td><a href="/wiki/Bandar_Seri_Begawan" title="Bandar Seri Begawan">Bandar Seri Begawan</a>
+</td>
+<td style="text-align:right">64.400
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Bulgarien</span><a href="/wiki/Bulgarien" title="Bulgarien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/20px-Flag_of_Bulgaria.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/30px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/40px-Flag_of_Bulgaria.svg.png 2x" data-file-width="1000" data-file-height="600" /></a>&#160;<a href="/wiki/Bulgarien" title="Bulgarien">Bulgarien</a></td>
+<td><a href="/wiki/Sofia" title="Sofia">Sofia</a>
+</td>
+<td style="text-align:right">1.256.700
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Burkina Faso</span><a href="/wiki/Burkina_Faso" title="Burkina Faso"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/20px-Flag_of_Burkina_Faso.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/30px-Flag_of_Burkina_Faso.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/40px-Flag_of_Burkina_Faso.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Burkina_Faso" title="Burkina Faso">Burkina&#160;Faso</a></td>
+<td><a href="/wiki/Ouagadougou" title="Ouagadougou">Ouagadougou</a>
+</td>
+<td style="text-align:right">1.181.700
+</td>
+<td style="text-align:right">2006
+</td>
+<td><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Burundi</span><a href="/wiki/Burundi" title="Burundi"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/20px-Flag_of_Burundi.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/30px-Flag_of_Burundi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/40px-Flag_of_Burundi.svg.png 2x" data-file-width="1000" data-file-height="600" /></a>&#160;<a href="/wiki/Burundi" title="Burundi">Burundi</a></td>
+<td><a href="/wiki/Gitega" title="Gitega">Gitega</a>
+</td>
+<td style="text-align:right">41.900
+</td>
+<td style="text-align:right">2008
+</td>
+<td><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Chile</span><a href="/wiki/Chile" title="Chile"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/20px-Flag_of_Chile.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/30px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/40px-Flag_of_Chile.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Chile" title="Chile">Chile</a></td>
+<td><a href="/wiki/Santiago_de_Chile" title="Santiago de Chile">Santiago de Chile</a>
+</td>
+<td style="text-align:right">5.561.300
+</td>
+<td style="text-align:right">2016
+</td>
+<td><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">China Volksrepublik</span><a href="/wiki/Volksrepublik_China" title="Volksrepublik China"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/20px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/30px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/40px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Volksrepublik_China" title="Volksrepublik China">Volksrepublik China</a></td>
+<td><a href="/wiki/Peking" title="Peking">Peking</a>
+</td>
+<td style="text-align:right">21.730.000
+</td>
+<td style="text-align:right">2016
+</td>
+<td><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Costa Rica</span><a href="/wiki/Costa_Rica" title="Costa Rica"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/20px-Flag_of_Costa_Rica.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/30px-Flag_of_Costa_Rica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/40px-Flag_of_Costa_Rica.svg.png 2x" data-file-width="1000" data-file-height="600" /></a>&#160;<a href="/wiki/Costa_Rica" title="Costa Rica">Costa&#160;Rica</a></td>
+<td><a href="/wiki/San_Jos%C3%A9_(Costa_Rica)" title="San José (Costa Rica)">San José</a>
+</td>
+<td style="text-align:right">288.000
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Danemark</span><a href="/wiki/D%C3%A4nemark" title="Dänemark"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/30px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="512" data-file-height="387" /></a>&#160;<a href="/wiki/D%C3%A4nemark" title="Dänemark">Dänemark</a></td>
+<td><a href="/wiki/Kopenhagen" title="Kopenhagen">Kopenhagen</a>
+</td>
+<td style="text-align:right">591.500
+</td>
+<td style="text-align:right">2016
+</td>
+<td><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Deutschland</span><a href="/wiki/Deutschland" title="Deutschland"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png" decoding="async" width="20" height="12" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a>&#160;<a href="/wiki/Deutschland" title="Deutschland">Deutschland</a></td>
+<td><a href="/wiki/Berlin" title="Berlin">Berlin</a>
+</td>
+<td style="text-align:right">3.478.600
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Dominica</span><a href="/wiki/Dominica" title="Dominica"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/20px-Flag_of_Dominica.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/30px-Flag_of_Dominica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/40px-Flag_of_Dominica.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Dominica" title="Dominica">Dominica</a></td>
+<td><a href="/wiki/Roseau" title="Roseau">Roseau</a>
+</td>
+<td style="text-align:right">15.000
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Dominikanische Republik</span><a href="/wiki/Dominikanische_Republik" title="Dominikanische Republik"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/20px-Flag_of_the_Dominican_Republic.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/30px-Flag_of_the_Dominican_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/40px-Flag_of_the_Dominican_Republic.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Dominikanische_Republik" title="Dominikanische Republik">Dominikanische Republik</a></td>
+<td><a href="/wiki/Santo_Domingo" title="Santo Domingo">Santo Domingo</a>
+</td>
+<td style="text-align:right">965.000
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Dschibuti</span><a href="/wiki/Dschibuti" title="Dschibuti"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/20px-Flag_of_Djibouti.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/30px-Flag_of_Djibouti.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/40px-Flag_of_Djibouti.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Dschibuti" title="Dschibuti">Dschibuti</a></td>
+<td><a href="/wiki/Dschibuti_(Stadt)" title="Dschibuti (Stadt)">Dschibuti</a>
+</td>
+<td style="text-align:right">475.300
+</td>
+<td style="text-align:right">2009
+</td>
+<td><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Ecuador</span><a href="/wiki/Ecuador" title="Ecuador"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/20px-Flag_of_Ecuador.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/30px-Flag_of_Ecuador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/40px-Flag_of_Ecuador.svg.png 2x" data-file-width="1440" data-file-height="960" /></a>&#160;<a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></td>
+<td><a href="/wiki/Quito" title="Quito">Quito</a>
+</td>
+<td style="text-align:right">2.239.200
+</td>
+<td style="text-align:right">2010
+</td>
+<td>für Gemeinde<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2"><span style="display:none">Elfenbeinküste</span><a href="/wiki/Elfenbeink%C3%BCste" title="Elfenbeinküste"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/20px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/30px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/40px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Elfenbeink%C3%BCste" title="Elfenbeinküste">Elfenbeinküste</a> <small>(Côte d'Ivoire)</small></td>
+<td><a href="/wiki/Yamoussoukro" title="Yamoussoukro">Yamoussoukro</a> <i>(de jure)</i>
+</td>
+<td style="text-align:right">355.600
+</td>
+<td style="text-align:right">2014
+</td>
+<td>für Distrikt<sup id="cite_ref-civ_40-0" class="reference"><a href="#cite_note-civ-40">&#91;40&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Abidjan" title="Abidjan">Abidjan</a> <i>(Regierungssitz)</i>
+</td>
+<td style="text-align:right">4.395.200
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-civ_40-1" class="reference"><a href="#cite_note-civ-40">&#91;40&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">El Salvador</span><a href="/wiki/El_Salvador" title="El Salvador"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/20px-Flag_of_El_Salvador.svg.png" decoding="async" width="20" height="11" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/30px-Flag_of_El_Salvador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/40px-Flag_of_El_Salvador.svg.png 2x" data-file-width="1005" data-file-height="567" /></a>&#160;<a href="/wiki/El_Salvador" title="El Salvador">El Salvador</a></td>
+<td><a href="/wiki/San_Salvador" title="San Salvador">San Salvador</a>
+</td>
+<td style="text-align:right">316.100
+</td>
+<td style="text-align:right">2007
+</td>
+<td><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Eritrea</span><a href="/wiki/Eritrea" title="Eritrea"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/20px-Flag_of_Eritrea.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/30px-Flag_of_Eritrea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/40px-Flag_of_Eritrea.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Eritrea" title="Eritrea">Eritrea</a></td>
+<td><a href="/wiki/Asmara" title="Asmara">Asmara</a>
+</td>
+<td style="text-align:right">563.900
+</td>
+<td style="text-align:right">2016
+</td>
+<td><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Estland</span><a href="/wiki/Estland" title="Estland"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/20px-Flag_of_Estonia.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/30px-Flag_of_Estonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/40px-Flag_of_Estonia.svg.png 2x" data-file-width="990" data-file-height="630" /></a>&#160;<a href="/wiki/Estland" title="Estland">Estland</a></td>
+<td><a href="/wiki/Tallinn" title="Tallinn">Tallinn</a>
+</td>
+<td style="text-align:right">393.200
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Eswatini</span><a href="/wiki/Eswatini" title="Eswatini"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/20px-Flag_of_Eswatini.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/30px-Flag_of_Eswatini.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/40px-Flag_of_Eswatini.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Eswatini" title="Eswatini">Eswatini</a></td>
+<td><a href="/wiki/Mbabane" title="Mbabane">Mbabane</a>
+</td>
+<td style="text-align:right">60.700
+</td>
+<td style="text-align:right">2017
+</td>
+<td><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Fidschi</span><a href="/wiki/Fidschi" title="Fidschi"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/20px-Flag_of_Fiji.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/30px-Flag_of_Fiji.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/40px-Flag_of_Fiji.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Fidschi" title="Fidschi">Fidschi</a></td>
+<td><a href="/wiki/Suva" title="Suva">Suva</a>
+</td>
+<td style="text-align:right">94.100
+</td>
+<td style="text-align:right">2017
+</td>
+<td><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Finnland</span><a href="/wiki/Finnland" title="Finnland"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Finland_icon.svg/20px-Flag_of_Finland_icon.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Finland_icon.svg/30px-Flag_of_Finland_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Finland_icon.svg/40px-Flag_of_Finland_icon.svg.png 2x" data-file-width="18" data-file-height="11" /></a>&#160;<a href="/wiki/Finnland" title="Finnland">Finnland</a></td>
+<td><a href="/wiki/Helsinki" title="Helsinki">Helsinki</a>
+</td>
+<td style="text-align:right">629.200
+</td>
+<td style="text-align:right">2016
+</td>
+<td><sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Frankreich</span><a href="/wiki/Frankreich" title="Frankreich"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/20px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/30px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/40px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Frankreich" title="Frankreich">Frankreich</a></td>
+<td><a href="/wiki/Paris" title="Paris">Paris</a>
+</td>
+<td style="text-align:right">2.206.500
+</td>
+<td style="text-align:right">2013
+</td>
+<td><sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Gabun</span><a href="/wiki/Gabun" title="Gabun"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png" decoding="async" width="20" height="15" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/30px-Flag_of_Gabon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/40px-Flag_of_Gabon.svg.png 2x" data-file-width="1000" data-file-height="750" /></a>&#160;<a href="/wiki/Gabun" title="Gabun">Gabun</a></td>
+<td><a href="/wiki/Libreville" title="Libreville">Libreville</a>
+</td>
+<td style="text-align:right">578.200
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Gambia</span><a href="/wiki/Gambia" title="Gambia"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/20px-Flag_of_The_Gambia.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/30px-Flag_of_The_Gambia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/40px-Flag_of_The_Gambia.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Gambia" title="Gambia">Gambia</a></td>
+<td><a href="/wiki/Banjul" title="Banjul">Banjul</a>
+</td>
+<td style="text-align:right">31.300
+</td>
+<td style="text-align:right">2013
+</td>
+<td><sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;49&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Georgien</span><a href="/wiki/Georgien" title="Georgien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/20px-Flag_of_Georgia.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/30px-Flag_of_Georgia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/40px-Flag_of_Georgia.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Georgien" title="Georgien">Georgien</a></td>
+<td><a href="/wiki/Tiflis" title="Tiflis">Tiflis</a>
+</td>
+<td style="text-align:right">1.183.000
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;50&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Ghana</span><a href="/wiki/Ghana" title="Ghana"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/20px-Flag_of_Ghana.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/30px-Flag_of_Ghana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/40px-Flag_of_Ghana.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Ghana" title="Ghana">Ghana</a></td>
+<td><a href="/wiki/Accra" title="Accra">Accra</a>
+</td>
+<td style="text-align:right">4.010.000
+</td>
+<td style="text-align:right">2010
+</td>
+<td>für <i>Greater Accra</i><sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;51&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Grenada</span><a href="/wiki/Grenada" title="Grenada"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/20px-Flag_of_Grenada.svg.png" decoding="async" width="20" height="12" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/30px-Flag_of_Grenada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/40px-Flag_of_Grenada.svg.png 2x" data-file-width="1000" data-file-height="600" /></a>&#160;<a href="/wiki/Grenada" title="Grenada">Grenada</a></td>
+<td><a href="/wiki/St._George%E2%80%99s" title="St. George’s">St. George’s</a>
+</td>
+<td style="text-align:right">33.700
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;52&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Griechenland</span><a href="/wiki/Griechenland" title="Griechenland"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/20px-Flag_of_Greece.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/40px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400" /></a>&#160;<a href="/wiki/Griechenland" title="Griechenland">Griechenland</a></td>
+<td><a href="/wiki/Athen" title="Athen">Athen</a>
+</td>
+<td style="text-align:right">664.000
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-53" class="reference"><a href="#cite_note-53">&#91;53&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Guatemala</span><a href="/wiki/Guatemala" title="Guatemala"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/20px-Flag_of_Guatemala.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/30px-Flag_of_Guatemala.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/40px-Flag_of_Guatemala.svg.png 2x" data-file-width="960" data-file-height="600" /></a>&#160;<a href="/wiki/Guatemala" title="Guatemala">Guatemala</a></td>
+<td><a href="/wiki/Guatemala-Stadt" title="Guatemala-Stadt">Guatemala-Stadt</a>
+</td>
+<td style="text-align:right">3.354.000
+</td>
+<td style="text-align:right">2015
+</td>
+<td>für Distrikt<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">&#91;54&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Guinea-a</span><a href="/wiki/Guinea" title="Guinea"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/20px-Flag_of_Guinea.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/30px-Flag_of_Guinea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/40px-Flag_of_Guinea.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Guinea" title="Guinea">Guinea</a></td>
+<td><a href="/wiki/Conakry" title="Conakry">Conakry</a>
+</td>
+<td style="text-align:right">1.667.900
+</td>
+<td style="text-align:right">2015
+</td>
+<td>für Präfektur<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;55&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Guinea-Bissau</span><a href="/wiki/Guinea-Bissau" title="Guinea-Bissau"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/20px-Flag_of_Guinea-Bissau.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/30px-Flag_of_Guinea-Bissau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/40px-Flag_of_Guinea-Bissau.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Guinea-Bissau" title="Guinea-Bissau">Guinea-Bissau</a></td>
+<td><a href="/wiki/Bissau" title="Bissau">Bissau</a>
+</td>
+<td style="text-align:right">387.900
+</td>
+<td style="text-align:right">2009
+</td>
+<td><sup id="cite_ref-56" class="reference"><a href="#cite_note-56">&#91;56&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Guyana</span><a href="/wiki/Guyana" title="Guyana"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/20px-Flag_of_Guyana.svg.png" decoding="async" width="20" height="12" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/30px-Flag_of_Guyana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/40px-Flag_of_Guyana.svg.png 2x" data-file-width="1000" data-file-height="600" /></a>&#160;<a href="/wiki/Guyana" title="Guyana">Guyana</a></td>
+<td><a href="/wiki/Georgetown_(Guyana)" title="Georgetown (Guyana)">Georgetown</a>
+</td>
+<td style="text-align:right">118.400
+</td>
+<td style="text-align:right">2012
+</td>
+<td><sup id="cite_ref-57" class="reference"><a href="#cite_note-57">&#91;57&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Haiti</span><a href="/wiki/Haiti" title="Haiti"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/20px-Flag_of_Haiti.svg.png" decoding="async" width="20" height="12" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/30px-Flag_of_Haiti.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/40px-Flag_of_Haiti.svg.png 2x" data-file-width="1000" data-file-height="600" /></a>&#160;<a href="/wiki/Haiti" title="Haiti">Haiti</a></td>
+<td><a href="/wiki/Port-au-Prince" title="Port-au-Prince">Port-au-Prince</a>
+</td>
+<td style="text-align:right">977.800
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-58" class="reference"><a href="#cite_note-58">&#91;58&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Honduras</span><a href="/wiki/Honduras" title="Honduras"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/20px-Flag_of_Honduras.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/30px-Flag_of_Honduras.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/40px-Flag_of_Honduras.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Honduras" title="Honduras">Honduras</a></td>
+<td><a href="/wiki/Tegucigalpa" title="Tegucigalpa">Tegucigalpa</a>
+</td>
+<td style="text-align:right">1.169.700
+</td>
+<td style="text-align:right">2013
+</td>
+<td><sup id="cite_ref-59" class="reference"><a href="#cite_note-59">&#91;59&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Indien</span><a href="/wiki/Indien" title="Indien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/20px-Flag_of_India.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/30px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Indien" title="Indien">Indien</a></td>
+<td><a href="/wiki/Neu-Delhi" title="Neu-Delhi">Neu-Delhi</a>
+</td>
+<td style="text-align:right">250.000
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-60" class="reference"><a href="#cite_note-60">&#91;60&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Indonesien</span><a href="/wiki/Indonesien" title="Indonesien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/20px-Flag_of_Indonesia.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/30px-Flag_of_Indonesia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/40px-Flag_of_Indonesia.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Indonesien" title="Indonesien">Indonesien</a></td>
+<td><a href="/wiki/Jakarta" title="Jakarta">Jakarta</a>
+</td>
+<td style="text-align:right">10.562.100
+</td>
+<td style="text-align:right">2020
+</td>
+<td><sup id="cite_ref-61" class="reference"><a href="#cite_note-61">&#91;61&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Irak</span><a href="/wiki/Irak" title="Irak"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/20px-Flag_of_Iraq.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/30px-Flag_of_Iraq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/40px-Flag_of_Iraq.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Irak" title="Irak">Irak</a></td>
+<td><a href="/wiki/Bagdad" title="Bagdad">Bagdad</a>
+</td>
+<td style="text-align:right">7.180.900
+</td>
+<td style="text-align:right">2009
+</td>
+<td><sup id="cite_ref-62" class="reference"><a href="#cite_note-62">&#91;62&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Iran</span><a href="/wiki/Iran" title="Iran"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/20px-Flag_of_Iran.svg.png" decoding="async" width="20" height="11" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/30px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/40px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360" /></a>&#160;<a href="/wiki/Iran" title="Iran">Iran</a></td>
+<td><a href="/wiki/Teheran" title="Teheran">Teheran</a>
+</td>
+<td style="text-align:right">13.267.600
+</td>
+<td style="text-align:right">2016
+</td>
+<td>für Provinz<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">&#91;63&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Irland</span><a href="/wiki/Irland" title="Irland"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/20px-Flag_of_Ireland.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/30px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/40px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Irland" title="Irland">Irland</a></td>
+<td><a href="/wiki/Dublin" title="Dublin">Dublin</a>
+</td>
+<td style="text-align:right">527.600
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-64" class="reference"><a href="#cite_note-64">&#91;64&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Island</span><a href="/wiki/Island" title="Island"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/20px-Flag_of_Iceland.svg.png" decoding="async" width="20" height="14" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/30px-Flag_of_Iceland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/40px-Flag_of_Iceland.svg.png 2x" data-file-width="1250" data-file-height="900" /></a>&#160;<a href="/wiki/Island" title="Island">Island</a></td>
+<td><a href="/wiki/Reykjav%C3%ADk" title="Reykjavík">Reykjavík</a>
+</td>
+<td style="text-align:right">209.500
+</td>
+<td style="text-align:right">2016
+</td>
+<td>für Großraum<sup id="cite_ref-65" class="reference"><a href="#cite_note-65">&#91;65&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Israel</span><a href="/wiki/Israel" title="Israel"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/20px-Flag_of_Israel.svg.png" decoding="async" width="20" height="15" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/30px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/40px-Flag_of_Israel.svg.png 2x" data-file-width="1100" data-file-height="800" /></a>&#160;<a href="/wiki/Israel" title="Israel">Israel</a></td>
+<td><a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a> <i>(de facto)</i>
+</td>
+<td style="text-align:right">904.100
+</td>
+<td style="text-align:right">2008
+</td>
+<td><sup id="cite_ref-66" class="reference"><a href="#cite_note-66">&#91;66&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Italien</span><a href="/wiki/Italien" title="Italien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/30px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/40px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a>&#160;<a href="/wiki/Italien" title="Italien">Italien</a></td>
+<td><a href="/wiki/Rom" title="Rom">Rom</a>
+</td>
+<td style="text-align:right">3.997.500
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-67" class="reference"><a href="#cite_note-67">&#91;67&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Jamaika</span><a href="/wiki/Jamaika" title="Jamaika"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/20px-Flag_of_Jamaica.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/30px-Flag_of_Jamaica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/40px-Flag_of_Jamaica.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Jamaika" title="Jamaika">Jamaika</a></td>
+<td><a href="/wiki/Kingston_(Jamaika)" title="Kingston (Jamaika)">Kingston</a>
+</td>
+<td style="text-align:right">89.200
+</td>
+<td style="text-align:right">2011
+</td>
+<td>für Gemeinde<sup id="cite_ref-68" class="reference"><a href="#cite_note-68">&#91;68&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Japan</span><a href="/wiki/Japan" title="Japan"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/20px-Flag_of_Japan.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/30px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/40px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Japan" title="Japan">Japan</a></td>
+<td><a href="/wiki/Tokio" title="Tokio">Tokio</a>
+</td>
+<td style="text-align:right">14.047.600
+</td>
+<td style="text-align:right">2020
+</td>
+<td><sup id="cite_ref-69" class="reference"><a href="#cite_note-69">&#91;69&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2"><span style="display:none">Jemen</span><a href="/wiki/Jemen" title="Jemen"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/20px-Flag_of_Yemen.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/30px-Flag_of_Yemen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/40px-Flag_of_Yemen.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Jemen" title="Jemen">Jemen</a></td>
+<td><a href="/wiki/Sanaa" title="Sanaa">Sanaa</a> <i>(de jure)</i>
+</td>
+<td style="text-align:right">1.527.900
+</td>
+<td style="text-align:right">2004
+</td>
+<td><sup id="cite_ref-70" class="reference"><a href="#cite_note-70">&#91;70&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Aden" title="Aden">Aden</a> <i>(de facto)</i>
+</td>
+<td style="text-align:right">568.700
+</td>
+<td style="text-align:right">2003
+</td>
+<td><sup id="cite_ref-71" class="reference"><a href="#cite_note-71">&#91;71&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Jordanien</span><a href="/wiki/Jordanien" title="Jordanien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/20px-Flag_of_Jordan.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/30px-Flag_of_Jordan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/40px-Flag_of_Jordan.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Jordanien" title="Jordanien">Jordanien</a></td>
+<td><a href="/wiki/Amman" title="Amman">Amman</a>
+</td>
+<td style="text-align:right">4.000.000
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-72" class="reference"><a href="#cite_note-72">&#91;72&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Kambodscha</span><a href="/wiki/Kambodscha" title="Kambodscha"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/20px-Flag_of_Cambodia.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/30px-Flag_of_Cambodia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/40px-Flag_of_Cambodia.svg.png 2x" data-file-width="1000" data-file-height="640" /></a>&#160;<a href="/wiki/Kambodscha" title="Kambodscha">Kambodscha</a></td>
+<td><a href="/wiki/Phnom_Penh" title="Phnom Penh">Phnom Penh</a>
+</td>
+<td style="text-align:right">1.501.700
+</td>
+<td style="text-align:right">2012
+</td>
+<td><sup id="cite_ref-73" class="reference"><a href="#cite_note-73">&#91;73&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Kamerun</span><a href="/wiki/Kamerun" title="Kamerun"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/20px-Flag_of_Cameroon.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/30px-Flag_of_Cameroon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/40px-Flag_of_Cameroon.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Kamerun" title="Kamerun">Kamerun</a></td>
+<td><a href="/wiki/Yaound%C3%A9" title="Yaoundé">Yaoundé</a>
+</td>
+<td style="text-align:right">1.881.900
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-74" class="reference"><a href="#cite_note-74">&#91;74&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Kanada</span><a href="/wiki/Kanada" title="Kanada"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/20px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/30px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Kanada" title="Kanada">Kanada</a></td>
+<td><a href="/wiki/Ottawa" title="Ottawa">Ottawa</a>
+</td>
+<td style="text-align:right">1.323.800
+</td>
+<td style="text-align:right">2016
+</td>
+<td>für Metropolregion<sup id="cite_ref-75" class="reference"><a href="#cite_note-75">&#91;75&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Kap Verde</span><a href="/wiki/Kap_Verde" title="Kap Verde"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/20px-Flag_of_Cape_Verde.svg.png" decoding="async" width="20" height="12" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/30px-Flag_of_Cape_Verde.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/40px-Flag_of_Cape_Verde.svg.png 2x" data-file-width="1020" data-file-height="600" /></a>&#160;<a href="/wiki/Kap_Verde" title="Kap Verde">Kap Verde</a></td>
+<td><a href="/wiki/Praia" title="Praia">Praia</a>
+</td>
+<td style="text-align:right">155.300
+</td>
+<td style="text-align:right">2016
+</td>
+<td><sup id="cite_ref-76" class="reference"><a href="#cite_note-76">&#91;76&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Kasachstan</span><a href="/wiki/Kasachstan" title="Kasachstan"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/20px-Flag_of_Kazakhstan.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/30px-Flag_of_Kazakhstan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/40px-Flag_of_Kazakhstan.svg.png 2x" data-file-width="1000" data-file-height="500" /></a>&#160;<a href="/wiki/Kasachstan" title="Kasachstan">Kasachstan</a></td>
+<td><a href="/wiki/Nur-Sultan" title="Nur-Sultan">Nur-Sultan</a>
+</td>
+<td style="text-align:right">760.500
+</td>
+<td style="text-align:right">2012
+</td>
+<td><sup id="cite_ref-77" class="reference"><a href="#cite_note-77">&#91;77&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Katar</span><a href="/wiki/Katar" title="Katar"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/20px-Flag_of_Qatar.svg.png" decoding="async" width="20" height="8" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/30px-Flag_of_Qatar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/40px-Flag_of_Qatar.svg.png 2x" data-file-width="1400" data-file-height="550" /></a>&#160;<a href="/wiki/Katar" title="Katar">Katar</a></td>
+<td><a href="/wiki/Doha" title="Doha">Doha</a>
+</td>
+<td style="text-align:right">796.900
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-78" class="reference"><a href="#cite_note-78">&#91;78&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Kenia</span><a href="/wiki/Kenia" title="Kenia"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/20px-Flag_of_Kenya.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/30px-Flag_of_Kenya.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/40px-Flag_of_Kenya.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Kenia" title="Kenia">Kenia</a></td>
+<td><a href="/wiki/Nairobi" title="Nairobi">Nairobi</a>
+</td>
+<td style="text-align:right">4.397.100
+</td>
+<td style="text-align:right">2019
+</td>
+<td><sup id="cite_ref-79" class="reference"><a href="#cite_note-79">&#91;79&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Kirgisistan</span><a href="/wiki/Datei:Flag_of_Kyrgyzstan.svg" class="image" title="Kirgisistan"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/20px-Flag_of_Kyrgyzstan.svg.png" decoding="async" width="20" height="12" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/30px-Flag_of_Kyrgyzstan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/40px-Flag_of_Kyrgyzstan.svg.png 2x" data-file-width="1000" data-file-height="600" /></a>&#160;<a href="/wiki/Kirgisistan" title="Kirgisistan">Kirgisistan</a></td>
+<td><a href="/wiki/Bischkek" title="Bischkek">Bischkek</a>
+</td>
+<td style="text-align:right">865.500
+</td>
+<td style="text-align:right">2009
+</td>
+<td><sup id="cite_ref-80" class="reference"><a href="#cite_note-80">&#91;80&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Kiribati</span><a href="/wiki/Kiribati" title="Kiribati"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/20px-Flag_of_Kiribati.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/30px-Flag_of_Kiribati.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/40px-Flag_of_Kiribati.svg.png 2x" data-file-width="600" data-file-height="300" /></a>&#160;<a href="/wiki/Kiribati" title="Kiribati">Kiribati</a></td>
+<td><a href="/wiki/South_Tarawa" title="South Tarawa">South Tarawa</a>
+</td>
+<td style="text-align:right">56.300
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-81" class="reference"><a href="#cite_note-81">&#91;81&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Kolumbien</span><a href="/wiki/Kolumbien" title="Kolumbien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/30px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Kolumbien" title="Kolumbien">Kolumbien</a></td>
+<td><a href="/wiki/Bogot%C3%A1" title="Bogotá">Bogotá</a>
+</td>
+<td style="text-align:right">7.878.800
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-82" class="reference"><a href="#cite_note-82">&#91;82&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Komoren</span><a href="/wiki/Datei:Flag_of_the_Comoros.svg" class="image" title="Komoren"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/20px-Flag_of_the_Comoros.svg.png" decoding="async" width="20" height="12" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/30px-Flag_of_the_Comoros.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/40px-Flag_of_the_Comoros.svg.png 2x" data-file-width="1000" data-file-height="600" /></a>&#160;<a href="/wiki/Komoren" title="Komoren">Komoren</a></td>
+<td><a href="/wiki/Moroni_(Komoren)" title="Moroni (Komoren)">Moroni</a>
+</td>
+<td style="text-align:right">43.600
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-83" class="reference"><a href="#cite_note-83">&#91;83&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Kongo Demokratische Republik</span><a href="/wiki/Demokratische_Republik_Kongo" title="Demokratische Republik Kongo"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png" decoding="async" width="20" height="15" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/30px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/40px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png 2x" data-file-width="800" data-file-height="600" /></a>&#160;<a href="/wiki/Demokratische_Republik_Kongo" title="Demokratische Republik Kongo">Demokratische Republik Kongo</a></td>
+<td><a href="/wiki/Kinshasa" title="Kinshasa">Kinshasa</a>
+</td>
+<td style="text-align:right">11.575.000
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-84" class="reference"><a href="#cite_note-84">&#91;84&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Kongo Republik</span><a href="/wiki/Republik_Kongo" title="Republik Kongo"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/20px-Flag_of_the_Republic_of_the_Congo.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/30px-Flag_of_the_Republic_of_the_Congo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/40px-Flag_of_the_Republic_of_the_Congo.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Republik_Kongo" title="Republik Kongo">Republik Kongo</a></td>
+<td><a href="/wiki/Brazzaville" title="Brazzaville">Brazzaville</a>
+</td>
+<td style="text-align:right">1.373.400
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-85" class="reference"><a href="#cite_note-85">&#91;85&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Korea Nord</span><a href="/wiki/Nordkorea" title="Nordkorea"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/20px-Flag_of_North_Korea.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/30px-Flag_of_North_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/40px-Flag_of_North_Korea.svg.png 2x" data-file-width="1600" data-file-height="800" /></a>&#160;<a href="/wiki/Nordkorea" title="Nordkorea">Nordkorea</a> <small>(Demokratische Volksrepublik Korea)</small></td>
+<td><a href="/wiki/Pj%C3%B6ngjang" title="Pjöngjang">Pjöngjang</a>
+</td>
+<td style="text-align:right">3.255.300
+</td>
+<td style="text-align:right">2008
+</td>
+<td><sup id="cite_ref-86" class="reference"><a href="#cite_note-86">&#91;86&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Korea Sud</span><a href="/wiki/S%C3%BCdkorea" title="Südkorea"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/30px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/40px-Flag_of_South_Korea.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/S%C3%BCdkorea" title="Südkorea">Südkorea</a> <small>(Republik Korea)</small></td>
+<td><a href="/wiki/Seoul" title="Seoul">Seoul</a>
+</td>
+<td style="text-align:right">9.794.300
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-87" class="reference"><a href="#cite_note-87">&#91;87&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Kroatien</span><a href="/wiki/Kroatien" title="Kroatien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/20px-Flag_of_Croatia.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/30px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/40px-Flag_of_Croatia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Kroatien" title="Kroatien">Kroatien</a></td>
+<td><a href="/wiki/Zagreb" title="Zagreb">Zagreb</a>
+</td>
+<td style="text-align:right">688.200
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-88" class="reference"><a href="#cite_note-88">&#91;88&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Kuba</span><a href="/wiki/Kuba" title="Kuba"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/20px-Flag_of_Cuba.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/30px-Flag_of_Cuba.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/40px-Flag_of_Cuba.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Kuba" title="Kuba">Kuba</a></td>
+<td><a href="/wiki/Havanna" title="Havanna">Havanna</a>
+</td>
+<td style="text-align:right">2.106.100
+</td>
+<td style="text-align:right">2012
+</td>
+<td><sup id="cite_ref-89" class="reference"><a href="#cite_note-89">&#91;89&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Kuwait</span><a href="/wiki/Kuwait" title="Kuwait"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/20px-Flag_of_Kuwait.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/30px-Flag_of_Kuwait.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/40px-Flag_of_Kuwait.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Kuwait" title="Kuwait">Kuwait</a></td>
+<td><a href="/wiki/Kuwait_(Stadt)" title="Kuwait (Stadt)">Kuwait</a>
+</td>
+<td style="text-align:right">
+</td>
+<td style="text-align:right">
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span style="display:none">Laos</span><a href="/wiki/Laos" title="Laos"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/20px-Flag_of_Laos.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/30px-Flag_of_Laos.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/40px-Flag_of_Laos.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Laos" title="Laos">Laos</a></td>
+<td><a href="/wiki/Vientiane" title="Vientiane">Vientiane</a>
+</td>
+<td style="text-align:right">820.900
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-90" class="reference"><a href="#cite_note-90">&#91;90&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Lesotho</span><a href="/wiki/Lesotho" title="Lesotho"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/20px-Flag_of_Lesotho.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/30px-Flag_of_Lesotho.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/40px-Flag_of_Lesotho.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Lesotho" title="Lesotho">Lesotho</a></td>
+<td><a href="/wiki/Maseru" title="Maseru">Maseru</a>
+</td>
+<td style="text-align:right">519.200
+</td>
+<td style="text-align:right">2016
+</td>
+<td>für Distrikt<sup id="cite_ref-91" class="reference"><a href="#cite_note-91">&#91;91&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Lettland</span><a href="/wiki/Lettland" title="Lettland"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/20px-Flag_of_Latvia.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/30px-Flag_of_Latvia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/40px-Flag_of_Latvia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Lettland" title="Lettland">Lettland</a></td>
+<td><a href="/wiki/Riga" title="Riga">Riga</a>
+</td>
+<td style="text-align:right">658.600
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-92" class="reference"><a href="#cite_note-92">&#91;92&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Libanon</span><a href="/wiki/Libanon" title="Libanon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/20px-Flag_of_Lebanon.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/30px-Flag_of_Lebanon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/40px-Flag_of_Lebanon.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Libanon" title="Libanon">Libanon</a></td>
+<td><a href="/wiki/Beirut" title="Beirut">Beirut</a>
+</td>
+<td style="text-align:right">363.000
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-93" class="reference"><a href="#cite_note-93">&#91;93&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Liberia</span><a href="/wiki/Liberia" title="Liberia"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/20px-Flag_of_Liberia.svg.png" decoding="async" width="20" height="11" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/30px-Flag_of_Liberia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/40px-Flag_of_Liberia.svg.png 2x" data-file-width="1140" data-file-height="600" /></a>&#160;<a href="/wiki/Liberia" title="Liberia">Liberia</a></td>
+<td><a href="/wiki/Monrovia" title="Monrovia">Monrovia</a>
+</td>
+<td style="text-align:right">970.800
+</td>
+<td style="text-align:right">2008
+</td>
+<td><sup id="cite_ref-94" class="reference"><a href="#cite_note-94">&#91;94&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Libyen</span><a href="/wiki/Datei:Flag_of_Libya.svg" class="image" title="Libyen"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/20px-Flag_of_Libya.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/30px-Flag_of_Libya.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/40px-Flag_of_Libya.svg.png 2x" data-file-width="960" data-file-height="480" /></a>&#160;<a href="/wiki/Libyen" title="Libyen">Libyen</a></td>
+<td><a href="/wiki/Tripolis" title="Tripolis">Tripolis</a>
+</td>
+<td style="text-align:right">1.519.000
+</td>
+<td style="text-align:right">2006
+</td>
+<td><sup id="cite_ref-95" class="reference"><a href="#cite_note-95">&#91;95&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Liechtenstein</span><a href="/wiki/Liechtenstein" title="Liechtenstein"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/20px-Flag_of_Liechtenstein.svg.png" decoding="async" width="20" height="12" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/30px-Flag_of_Liechtenstein.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/40px-Flag_of_Liechtenstein.svg.png 2x" data-file-width="1000" data-file-height="600" /></a>&#160;<a href="/wiki/Liechtenstein" title="Liechtenstein">Liechtenstein</a></td>
+<td><a href="/wiki/Vaduz" title="Vaduz">Vaduz</a>
+</td>
+<td style="text-align:right">5.400
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-96" class="reference"><a href="#cite_note-96">&#91;96&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Litauen</span><a href="/wiki/Litauen" title="Litauen"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/20px-Flag_of_Lithuania.svg.png" decoding="async" width="20" height="12" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/30px-Flag_of_Lithuania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/40px-Flag_of_Lithuania.svg.png 2x" data-file-width="1000" data-file-height="600" /></a>&#160;<a href="/wiki/Litauen" title="Litauen">Litauen</a></td>
+<td><a href="/wiki/Vilnius" title="Vilnius">Vilnius</a>
+</td>
+<td style="text-align:right">534.700
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-97" class="reference"><a href="#cite_note-97">&#91;97&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Luxemburg</span><a href="/wiki/Luxemburg" title="Luxemburg"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/20px-Flag_of_Luxembourg.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/30px-Flag_of_Luxembourg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/40px-Flag_of_Luxembourg.svg.png 2x" data-file-width="1000" data-file-height="600" /></a>&#160;<a href="/wiki/Luxemburg" title="Luxemburg">Luxemburg</a></td>
+<td><a href="/wiki/Luxemburg_(Stadt)" title="Luxemburg (Stadt)">Luxemburg</a>
+</td>
+<td style="text-align:right">115.200
+</td>
+<td style="text-align:right">2016
+</td>
+<td><sup id="cite_ref-98" class="reference"><a href="#cite_note-98">&#91;98&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Madagaskar</span><a href="/wiki/Madagaskar" title="Madagaskar"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/20px-Flag_of_Madagascar.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/30px-Flag_of_Madagascar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/40px-Flag_of_Madagascar.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Madagaskar" title="Madagaskar">Madagaskar</a></td>
+<td><a href="/wiki/Antananarivo" title="Antananarivo">Antananarivo</a>
+</td>
+<td style="text-align:right">1.275.200
+</td>
+<td style="text-align:right">2018
+</td>
+<td><sup id="cite_ref-99" class="reference"><a href="#cite_note-99">&#91;99&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Malawi</span><a href="/wiki/Malawi" title="Malawi"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/20px-Flag_of_Malawi.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/30px-Flag_of_Malawi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/40px-Flag_of_Malawi.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Malawi" title="Malawi">Malawi</a></td>
+<td><a href="/wiki/Lilongwe" title="Lilongwe">Lilongwe</a>
+</td>
+<td style="text-align:right">989.300
+</td>
+<td style="text-align:right">2018
+</td>
+<td><sup id="cite_ref-100" class="reference"><a href="#cite_note-100">&#91;100&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2"><span style="display:none">Malaysia</span><a href="/wiki/Malaysia" title="Malaysia"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/20px-Flag_of_Malaysia.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/30px-Flag_of_Malaysia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/40px-Flag_of_Malaysia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Malaysia" title="Malaysia">Malaysia</a></td>
+<td><a href="/wiki/Kuala_Lumpur" title="Kuala Lumpur">Kuala Lumpur</a> <i>(de jure)</i>
+</td>
+<td style="text-align:right">1.588.800
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-101" class="reference"><a href="#cite_note-101">&#91;101&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Putrajaya" title="Putrajaya">Putrajaya</a> <i>(Regierungssitz)</i>
+</td>
+<td style="text-align:right">50.000
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-102" class="reference"><a href="#cite_note-102">&#91;102&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Malediven</span><a href="/wiki/Malediven" title="Malediven"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/20px-Flag_of_Maldives.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/30px-Flag_of_Maldives.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/40px-Flag_of_Maldives.svg.png 2x" data-file-width="720" data-file-height="480" /></a>&#160;<a href="/wiki/Malediven" title="Malediven">Malediven</a></td>
+<td><a href="/wiki/Mal%C3%A9" title="Malé">Malé</a>
+</td>
+<td style="text-align:right">133.400
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-103" class="reference"><a href="#cite_note-103">&#91;103&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Mali</span><a href="/wiki/Mali" title="Mali"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/20px-Flag_of_Mali.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/30px-Flag_of_Mali.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/40px-Flag_of_Mali.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Mali" title="Mali">Mali</a></td>
+<td><a href="/wiki/Bamako" title="Bamako">Bamako</a>
+</td>
+<td style="text-align:right">907.600
+</td>
+<td style="text-align:right">2009
+</td>
+<td>für Distrikt<sup id="cite_ref-104" class="reference"><a href="#cite_note-104">&#91;104&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Malta</span><a href="/wiki/Malta" title="Malta"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/20px-Flag_of_Malta.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/30px-Flag_of_Malta.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/40px-Flag_of_Malta.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Malta" title="Malta">Malta</a></td>
+<td><a href="/wiki/Valletta" title="Valletta">Valletta</a>
+</td>
+<td style="text-align:right">5.700
+</td>
+<td style="text-align:right">2013
+</td>
+<td><sup id="cite_ref-105" class="reference"><a href="#cite_note-105">&#91;105&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Marokko</span><a href="/wiki/Marokko" title="Marokko"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/20px-Flag_of_Morocco.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/30px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/40px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Marokko" title="Marokko">Marokko</a></td>
+<td><a href="/wiki/Rabat" title="Rabat">Rabat</a>
+</td>
+<td style="text-align:right">577.800
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-106" class="reference"><a href="#cite_note-106">&#91;106&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Marshallinseln</span><a href="/wiki/Marshallinseln" title="Marshallinseln"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/20px-Flag_of_the_Marshall_Islands.svg.png" decoding="async" width="20" height="11" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/30px-Flag_of_the_Marshall_Islands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/40px-Flag_of_the_Marshall_Islands.svg.png 2x" data-file-width="1140" data-file-height="600" /></a>&#160;<a href="/wiki/Marshallinseln" title="Marshallinseln">Marshallinseln</a></td>
+<td><a href="/wiki/Majuro" title="Majuro">Majuro</a>
+</td>
+<td style="text-align:right">27.800
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-107" class="reference"><a href="#cite_note-107">&#91;107&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Mauretanien</span><a href="/wiki/Mauretanien" title="Mauretanien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/20px-Flag_of_Mauritania.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/30px-Flag_of_Mauritania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/40px-Flag_of_Mauritania.svg.png 2x" data-file-width="1200" data-file-height="800" /></a>&#160;<a href="/wiki/Mauretanien" title="Mauretanien">Mauretanien</a></td>
+<td><a href="/wiki/Nouakchott" title="Nouakchott">Nouakchott</a>
+</td>
+<td style="text-align:right">558.200
+</td>
+<td style="text-align:right">2000
+</td>
+<td><sup id="cite_ref-108" class="reference"><a href="#cite_note-108">&#91;108&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Mauritius</span><a href="/wiki/Mauritius" title="Mauritius"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/20px-Flag_of_Mauritius.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/30px-Flag_of_Mauritius.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/40px-Flag_of_Mauritius.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Mauritius" title="Mauritius">Mauritius</a></td>
+<td><a href="/wiki/Port_Louis" title="Port Louis">Port Louis</a>
+</td>
+<td style="text-align:right">118.400
+</td>
+<td style="text-align:right">2011
+</td>
+<td>für Distrikt<sup id="cite_ref-109" class="reference"><a href="#cite_note-109">&#91;109&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Mexiko</span><a href="/wiki/Mexiko" title="Mexiko"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/20px-Flag_of_Mexico.svg.png" decoding="async" width="20" height="11" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/30px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/40px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" /></a>&#160;<a href="/wiki/Mexiko" title="Mexiko">Mexiko</a></td>
+<td><a href="/wiki/Mexiko-Stadt" title="Mexiko-Stadt">Mexiko-Stadt</a>
+</td>
+<td style="text-align:right">8.851.100
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-110" class="reference"><a href="#cite_note-110">&#91;110&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Mikronesien Foderierte Staaten</span><a href="/wiki/F%C3%B6derierte_Staaten_von_Mikronesien" title="Mikronesien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/20px-Flag_of_the_Federated_States_of_Micronesia.svg.png" decoding="async" width="20" height="11" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/30px-Flag_of_the_Federated_States_of_Micronesia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/40px-Flag_of_the_Federated_States_of_Micronesia.svg.png 2x" data-file-width="760" data-file-height="400" /></a>&#160;<a href="/wiki/F%C3%B6derierte_Staaten_von_Mikronesien" title="Föderierte Staaten von Mikronesien">Mikronesien</a></td>
+<td><a href="/wiki/Palikir" title="Palikir">Palikir</a>
+</td>
+<td style="text-align:right">36.200
+</td>
+<td style="text-align:right">2010
+</td>
+<td>für Insel<sup id="cite_ref-111" class="reference"><a href="#cite_note-111">&#91;111&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Moldau Republik</span><a href="/wiki/Republik_Moldau" title="Republik Moldau"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/20px-Flag_of_Moldova.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/30px-Flag_of_Moldova.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/40px-Flag_of_Moldova.svg.png 2x" data-file-width="1800" data-file-height="900" /></a>&#160;<a href="/wiki/Republik_Moldau" title="Republik Moldau">Moldau</a></td>
+<td><a href="/wiki/Chi%C8%99in%C4%83u" title="Chișinău">Chișinău</a>
+</td>
+<td style="text-align:right">469.400
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-112" class="reference"><a href="#cite_note-112">&#91;112&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Monaco</span><a href="/wiki/Monaco" title="Monaco"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/20px-Flag_of_Monaco.svg.png" decoding="async" width="20" height="16" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/30px-Flag_of_Monaco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/40px-Flag_of_Monaco.svg.png 2x" data-file-width="1000" data-file-height="800" /></a>&#160;<a href="/wiki/Monaco" title="Monaco">Monaco</a></td>
+<td>Monaco
+</td>
+<td style="text-align:right">38.400
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-113" class="reference"><a href="#cite_note-113">&#91;113&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Mongolei</span><a href="/wiki/Mongolei" title="Mongolei"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/20px-Flag_of_Mongolia.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/30px-Flag_of_Mongolia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/40px-Flag_of_Mongolia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Mongolei" title="Mongolei">Mongolei</a></td>
+<td><a href="/wiki/Ulaanbaatar" title="Ulaanbaatar">Ulaanbaatar</a>
+</td>
+<td style="text-align:right">1.396.300
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-114" class="reference"><a href="#cite_note-114">&#91;114&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Montenegro</span><a href="/wiki/Montenegro" title="Montenegro"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/20px-Flag_of_Montenegro.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/30px-Flag_of_Montenegro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/40px-Flag_of_Montenegro.svg.png 2x" data-file-width="709" data-file-height="354" /></a>&#160;<a href="/wiki/Montenegro" title="Montenegro">Montenegro</a></td>
+<td><a href="/wiki/Podgorica" title="Podgorica">Podgorica</a>
+</td>
+<td style="text-align:right">187.100
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-115" class="reference"><a href="#cite_note-115">&#91;115&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Mosambik</span><a href="/wiki/Mosambik" title="Mosambik"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/20px-Flag_of_Mozambique.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/30px-Flag_of_Mozambique.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/40px-Flag_of_Mozambique.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Mosambik" title="Mosambik">Mosambik</a></td>
+<td><a href="/wiki/Maputo" title="Maputo">Maputo</a>
+</td>
+<td style="text-align:right">1.101.200
+</td>
+<td style="text-align:right">2017
+</td>
+<td><sup id="cite_ref-116" class="reference"><a href="#cite_note-116">&#91;116&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Myanmar</span><a href="/wiki/Myanmar" title="Myanmar"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/20px-Flag_of_Myanmar.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/30px-Flag_of_Myanmar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/40px-Flag_of_Myanmar.svg.png 2x" data-file-width="1200" data-file-height="800" /></a>&#160;<a href="/wiki/Myanmar" title="Myanmar">Myanmar</a></td>
+<td><a href="/wiki/Naypyidaw" title="Naypyidaw">Naypyidaw</a>
+</td>
+<td style="text-align:right">1.160.200
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-117" class="reference"><a href="#cite_note-117">&#91;117&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Namibia</span><a href="/wiki/Namibia" title="Namibia"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/20px-Flag_of_Namibia.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/30px-Flag_of_Namibia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/40px-Flag_of_Namibia.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Namibia" title="Namibia">Namibia</a></td>
+<td><a href="/wiki/Windhoek" title="Windhoek">Windhoek</a>
+</td>
+<td style="text-align:right">322.500
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-118" class="reference"><a href="#cite_note-118">&#91;118&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Nauru</span><a href="/wiki/Nauru" title="Nauru"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/20px-Flag_of_Nauru.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/30px-Flag_of_Nauru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/40px-Flag_of_Nauru.svg.png 2x" data-file-width="600" data-file-height="300" /></a>&#160;<a href="/wiki/Nauru" title="Nauru">Nauru</a></td>
+<td><a href="/wiki/Yaren_(Distrikt)" title="Yaren (Distrikt)">Yaren</a> <i>(<a href="/wiki/De_jure/de_facto" title="De jure/de facto">de facto</a>)</i>
+</td>
+<td style="text-align:right">750
+</td>
+<td style="text-align:right">2011
+</td>
+<td>für Distrikt<sup id="cite_ref-119" class="reference"><a href="#cite_note-119">&#91;119&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Nepal</span><a href="/wiki/Nepal" title="Nepal"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg/20px-Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg.png" decoding="async" width="20" height="15" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg/30px-Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg/40px-Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg.png 2x" data-file-width="1180" data-file-height="885" /></a>&#160;<a href="/wiki/Nepal" title="Nepal">Nepal</a></td>
+<td><a href="/wiki/Kathmandu" title="Kathmandu">Kathmandu</a>
+</td>
+<td style="text-align:right">975.000
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-120" class="reference"><a href="#cite_note-120">&#91;120&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Neuseeland</span><a href="/wiki/Neuseeland" title="Neuseeland"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/20px-Flag_of_New_Zealand.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/30px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/40px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Neuseeland" title="Neuseeland">Neuseeland</a></td>
+<td><a href="/wiki/Wellington" title="Wellington">Wellington</a>
+</td>
+<td style="text-align:right">471.300
+</td>
+<td style="text-align:right">2013
+</td>
+<td>für Region<sup id="cite_ref-121" class="reference"><a href="#cite_note-121">&#91;121&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Nicaragua</span><a href="/wiki/Nicaragua" title="Nicaragua"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/20px-Flag_of_Nicaragua.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/30px-Flag_of_Nicaragua.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/40px-Flag_of_Nicaragua.svg.png 2x" data-file-width="1000" data-file-height="600" /></a>&#160;<a href="/wiki/Nicaragua" title="Nicaragua">Nicaragua</a></td>
+<td><a href="/wiki/Managua" title="Managua">Managua</a>
+</td>
+<td style="text-align:right">1.263.000
+</td>
+<td style="text-align:right">2005
+</td>
+<td>für Gemeinde<sup id="cite_ref-122" class="reference"><a href="#cite_note-122">&#91;122&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2"><span style="display:none">Niederlande</span><a href="/wiki/Niederlande" title="Niederlande"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/20px-Flag_of_the_Netherlands.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/30px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/40px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Niederlande" title="Niederlande">Niederlande</a></td>
+<td><a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a> <i>(de jure)</i>
+</td>
+<td style="text-align:right">799.300
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-123" class="reference"><a href="#cite_note-123">&#91;123&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Den_Haag" title="Den Haag">Den Haag</a> <i>(Regierungssitz)</i>
+</td>
+<td style="text-align:right">505.900
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-124" class="reference"><a href="#cite_note-124">&#91;124&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Niger</span><a href="/wiki/Niger" title="Niger"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/20px-Flag_of_Niger.svg.png" decoding="async" width="20" height="17" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/30px-Flag_of_Niger.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/40px-Flag_of_Niger.svg.png 2x" data-file-width="700" data-file-height="600" /></a>&#160;<a href="/wiki/Niger" title="Niger">Niger</a></td>
+<td><a href="/wiki/Niamey" title="Niamey">Niamey</a>
+</td>
+<td style="text-align:right">1.222.100
+</td>
+<td style="text-align:right">2012
+</td>
+<td><sup id="cite_ref-125" class="reference"><a href="#cite_note-125">&#91;125&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Nigeria</span><a href="/wiki/Nigeria" title="Nigeria"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/20px-Flag_of_Nigeria.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/30px-Flag_of_Nigeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/40px-Flag_of_Nigeria.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Nigeria" title="Nigeria">Nigeria</a></td>
+<td><a href="/wiki/Abuja" title="Abuja">Abuja</a>
+</td>
+<td style="text-align:right">1.406.000
+</td>
+<td style="text-align:right">2006
+</td>
+<td><sup id="cite_ref-126" class="reference"><a href="#cite_note-126">&#91;126&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Nordmazedonien</span><a href="/wiki/Nordmazedonien" title="Nordmazedonien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/20px-Flag_of_North_Macedonia.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/30px-Flag_of_North_Macedonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/40px-Flag_of_North_Macedonia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Nordmazedonien" title="Nordmazedonien">Nordmazedonien</a></td>
+<td><a href="/wiki/Skopje" title="Skopje">Skopje</a>
+</td>
+<td style="text-align:right">322.000
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-127" class="reference"><a href="#cite_note-127">&#91;127&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Norwegen</span><a href="/wiki/Norwegen" title="Norwegen"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/18px-Flag_of_Norway.svg.png" decoding="async" width="18" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/27px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/36px-Flag_of_Norway.svg.png 2x" data-file-width="512" data-file-height="372" /></a>&#160;<a href="/wiki/Norwegen" title="Norwegen">Norwegen</a></td>
+<td><a href="/wiki/Oslo" title="Oslo">Oslo</a>
+</td>
+<td style="text-align:right">612.300
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-128" class="reference"><a href="#cite_note-128">&#91;128&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Oman</span><a href="/wiki/Oman" title="Oman"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/18px-Flag_of_Oman.svg.png" decoding="async" width="18" height="9" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/27px-Flag_of_Oman.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/36px-Flag_of_Oman.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Oman" title="Oman">Oman</a></td>
+<td><a href="/wiki/Maskat" title="Maskat">Maskat</a>
+</td>
+<td style="text-align:right">775.900
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-129" class="reference"><a href="#cite_note-129">&#91;129&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Osterreich</span><a href="/wiki/%C3%96sterreich" title="Österreich"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/20px-Flag_of_Austria.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/30px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/40px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/%C3%96sterreich" title="Österreich">Österreich</a></td>
+<td><a href="/wiki/Wien" title="Wien">Wien</a>
+</td>
+<td style="text-align:right">1.897.500
+</td>
+<td style="text-align:right">2019
+</td>
+<td><sup id="cite_ref-130" class="reference"><a href="#cite_note-130">&#91;130&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Osttimor</span><a href="/wiki/Osttimor" title="Osttimor"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/20px-Flag_of_East_Timor.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/30px-Flag_of_East_Timor.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/40px-Flag_of_East_Timor.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Osttimor" title="Osttimor">Osttimor</a></td>
+<td><a href="/wiki/Dili" title="Dili">Dili</a>
+</td>
+<td style="text-align:right">277.300
+</td>
+<td style="text-align:right">2015
+</td>
+<td>für Gemeinde<sup id="cite_ref-131" class="reference"><a href="#cite_note-131">&#91;131&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Pakistan</span><a href="/wiki/Pakistan" title="Pakistan"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/18px-Flag_of_Pakistan.svg.png" decoding="async" width="18" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/27px-Flag_of_Pakistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/36px-Flag_of_Pakistan.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Pakistan" title="Pakistan">Pakistan</a></td>
+<td><a href="/wiki/Islamabad" title="Islamabad">Islamabad</a>
+</td>
+<td style="text-align:right">2.001.600
+</td>
+<td style="text-align:right">2017
+</td>
+<td><sup id="cite_ref-132" class="reference"><a href="#cite_note-132">&#91;132&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Palau</span><a href="/wiki/Palau" title="Palau"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/20px-Flag_of_Palau.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/30px-Flag_of_Palau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/40px-Flag_of_Palau.svg.png 2x" data-file-width="800" data-file-height="500" /></a>&#160;<a href="/wiki/Palau" title="Palau">Palau</a></td>
+<td><a href="/wiki/Ngerulmud" title="Ngerulmud">Ngerulmud</a>
+</td>
+<td style="text-align:right">277
+</td>
+<td style="text-align:right">2015
+</td>
+<td>für Distrikt<sup id="cite_ref-133" class="reference"><a href="#cite_note-133">&#91;133&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Panama</span><a href="/wiki/Panama" title="Panama"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/18px-Flag_of_Panama.svg.png" decoding="async" width="18" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/27px-Flag_of_Panama.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/36px-Flag_of_Panama.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Panama" title="Panama">Panama</a></td>
+<td><a href="/wiki/Panama-Stadt" title="Panama-Stadt">Panama-Stadt</a>
+</td>
+<td style="text-align:right">880.700
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-134" class="reference"><a href="#cite_note-134">&#91;134&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Papua-Neuguinea</span><a href="/wiki/Papua-Neuguinea" title="Papua-Neuguinea"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/20px-Flag_of_Papua_New_Guinea.svg.png" decoding="async" width="20" height="15" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/30px-Flag_of_Papua_New_Guinea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/40px-Flag_of_Papua_New_Guinea.svg.png 2x" data-file-width="600" data-file-height="450" /></a>&#160;<a href="/wiki/Papua-Neuguinea" title="Papua-Neuguinea">Papua-Neuguinea</a></td>
+<td><a href="/wiki/Port_Moresby" title="Port Moresby">Port Moresby</a>
+</td>
+<td style="text-align:right">364.100
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-135" class="reference"><a href="#cite_note-135">&#91;135&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Paraguay</span><a href="/wiki/Paraguay" title="Paraguay"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/20px-Flag_of_Paraguay.svg.png" decoding="async" width="20" height="11" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/30px-Flag_of_Paraguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/40px-Flag_of_Paraguay.svg.png 2x" data-file-width="1200" data-file-height="660" /></a>&#160;<a href="/wiki/Paraguay" title="Paraguay">Paraguay</a></td>
+<td><a href="/wiki/Asunci%C3%B3n" title="Asunción">Asunción</a>
+</td>
+<td style="text-align:right">529.400
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-136" class="reference"><a href="#cite_note-136">&#91;136&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Peru</span><a href="/wiki/Peru" title="Peru"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/20px-Flag_of_Peru.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/30px-Flag_of_Peru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/40px-Flag_of_Peru.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Peru" title="Peru">Peru</a></td>
+<td><a href="/wiki/Lima" title="Lima">Lima</a>
+</td>
+<td style="text-align:right">9.485.400
+</td>
+<td style="text-align:right">2017
+</td>
+<td><sup id="cite_ref-137" class="reference"><a href="#cite_note-137">&#91;137&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Philippinen</span><a href="/wiki/Philippinen" title="Philippinen"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/20px-Flag_of_the_Philippines.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/30px-Flag_of_the_Philippines.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/40px-Flag_of_the_Philippines.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Philippinen" title="Philippinen">Philippinen</a></td>
+<td><a href="/wiki/Manila" title="Manila">Manila</a>
+</td>
+<td style="text-align:right">1.846.500
+</td>
+<td style="text-align:right">2020
+</td>
+<td><sup id="cite_ref-138" class="reference"><a href="#cite_note-138">&#91;138&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Polen</span><a href="/wiki/Polen" title="Polen"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/20px-Flag_of_Poland.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/30px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/40px-Flag_of_Poland.svg.png 2x" data-file-width="640" data-file-height="400" /></a>&#160;<a href="/wiki/Polen" title="Polen">Polen</a></td>
+<td><a href="/wiki/Warschau" title="Warschau">Warschau</a>
+</td>
+<td style="text-align:right">1.735.400
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-139" class="reference"><a href="#cite_note-139">&#91;139&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Portugal</span><a href="/wiki/Portugal" title="Portugal"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/20px-Flag_of_Portugal.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/30px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/40px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400" /></a>&#160;<a href="/wiki/Portugal" title="Portugal">Portugal</a></td>
+<td><a href="/wiki/Lissabon" title="Lissabon">Lissabon</a>
+</td>
+<td style="text-align:right">2.731.500
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-140" class="reference"><a href="#cite_note-140">&#91;140&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Ruanda</span><a href="/wiki/Ruanda" title="Ruanda"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/20px-Flag_of_Rwanda.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/30px-Flag_of_Rwanda.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/40px-Flag_of_Rwanda.svg.png 2x" data-file-width="1080" data-file-height="720" /></a>&#160;<a href="/wiki/Ruanda" title="Ruanda">Ruanda</a></td>
+<td><a href="/wiki/Kigali" title="Kigali">Kigali</a>
+</td>
+<td style="text-align:right">1.132.700
+</td>
+<td style="text-align:right">2012
+</td>
+<td><sup id="cite_ref-141" class="reference"><a href="#cite_note-141">&#91;141&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Rumänien</span><a href="/wiki/Rum%C3%A4nien" title="Rumänien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/20px-Flag_of_Romania.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/30px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/40px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400" /></a>&#160;<a href="/wiki/Rum%C3%A4nien" title="Rumänien">Rumänien</a></td>
+<td><a href="/wiki/Bukarest" title="Bukarest">Bukarest</a>
+</td>
+<td style="text-align:right">1.833.400
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-142" class="reference"><a href="#cite_note-142">&#91;142&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Russland</span><span style="white-space:nowrap"><a href="/wiki/Russland" title="Russland"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/20px-Flag_of_Russia.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/30px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/40px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#32;<a href="/wiki/Russland" title="Russland">Russland</a></span></td>
+<td><a href="/wiki/Moskau" title="Moskau">Moskau</a>
+</td>
+<td style="text-align:right">11.514.300
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-143" class="reference"><a href="#cite_note-143">&#91;143&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Saint Kitts Nevis</span><a href="/wiki/St._Kitts_und_Nevis" title="St. Kitts Nevis"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/20px-Flag_of_Saint_Kitts_and_Nevis.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/30px-Flag_of_Saint_Kitts_and_Nevis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/40px-Flag_of_Saint_Kitts_and_Nevis.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/St._Kitts_und_Nevis" title="St. Kitts und Nevis">St. Kitts und Nevis</a></td>
+<td><a href="/wiki/Basseterre" title="Basseterre">Basseterre</a>
+</td>
+<td style="text-align:right">17.305
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-144" class="reference"><a href="#cite_note-144">&#91;144&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Saint Lucia</span><a href="/wiki/St._Lucia" title="St. Lucia"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/20px-Flag_of_Saint_Lucia.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/30px-Flag_of_Saint_Lucia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/40px-Flag_of_Saint_Lucia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/St._Lucia" title="St. Lucia">St. Lucia</a></td>
+<td><a href="/wiki/Castries" title="Castries">Castries</a>
+</td>
+<td style="text-align:right">3.661
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-145" class="reference"><a href="#cite_note-145">&#91;145&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Saint Vincent Grenadinen</span><a href="/wiki/St._Vincent_und_die_Grenadinen" title="St. Vincent und die Grenadinen"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/20px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/30px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/40px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/St._Vincent_und_die_Grenadinen" title="St. Vincent und die Grenadinen">St.&#160;Vincent und die Grenadinen</a></td>
+<td><a href="/wiki/Kingstown" title="Kingstown">Kingstown</a>
+</td>
+<td style="text-align:right">12.700
+</td>
+<td style="text-align:right">2012
+</td>
+<td><sup id="cite_ref-146" class="reference"><a href="#cite_note-146">&#91;146&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Salomonen</span><a href="/wiki/Salomonen" title="Salomonen"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/20px-Flag_of_the_Solomon_Islands.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/30px-Flag_of_the_Solomon_Islands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/40px-Flag_of_the_Solomon_Islands.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Salomonen" title="Salomonen">Salomonen</a></td>
+<td><a href="/wiki/Honiara" title="Honiara">Honiara</a>
+</td>
+<td style="text-align:right">64.600
+</td>
+<td style="text-align:right">2009
+</td>
+<td><sup id="cite_ref-147" class="reference"><a href="#cite_note-147">&#91;147&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Sambia</span><a href="/wiki/Sambia" title="Sambia"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/20px-Flag_of_Zambia.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/30px-Flag_of_Zambia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/40px-Flag_of_Zambia.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Sambia" title="Sambia">Sambia</a></td>
+<td><a href="/wiki/Lusaka" title="Lusaka">Lusaka</a>
+</td>
+<td style="text-align:right">1.747.200
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-148" class="reference"><a href="#cite_note-148">&#91;148&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Samoa</span><a href="/wiki/Samoa" title="Samoa"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/20px-Flag_of_Samoa.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/30px-Flag_of_Samoa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/40px-Flag_of_Samoa.svg.png 2x" data-file-width="2880" data-file-height="1440" /></a>&#160;<a href="/wiki/Samoa" title="Samoa">Samoa</a></td>
+<td><a href="/wiki/Apia" title="Apia">Apia</a>
+</td>
+<td style="text-align:right">35.500
+</td>
+<td style="text-align:right">2016
+</td>
+<td><sup id="cite_ref-149" class="reference"><a href="#cite_note-149">&#91;149&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">San Marino</span><a href="/wiki/San_Marino" title="San Marino"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/20px-Flag_of_San_Marino.svg.png" decoding="async" width="20" height="15" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/30px-Flag_of_San_Marino.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/40px-Flag_of_San_Marino.svg.png 2x" data-file-width="800" data-file-height="600" /></a>&#160;<a href="/wiki/San_Marino" title="San Marino">San&#160;Marino</a></td>
+<td><a href="/wiki/Stadt_San_Marino" title="Stadt San Marino">San Marino</a>
+</td>
+<td style="text-align:right">4.036
+</td>
+<td style="text-align:right">2016
+</td>
+<td><sup id="cite_ref-150" class="reference"><a href="#cite_note-150">&#91;150&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Sao Tome und Principe</span><a href="/wiki/S%C3%A3o_Tom%C3%A9_und_Pr%C3%ADncipe" title="São Tomé und Príncipe"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/20px-Flag_of_Sao_Tome_and_Principe.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/30px-Flag_of_Sao_Tome_and_Principe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/40px-Flag_of_Sao_Tome_and_Principe.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/S%C3%A3o_Tom%C3%A9_und_Pr%C3%ADncipe" title="São Tomé und Príncipe">São&#160;Tomé und&#160;Príncipe</a></td>
+<td><a href="/wiki/S%C3%A3o_Tom%C3%A9" title="São Tomé">São Tomé</a>
+</td>
+<td style="text-align:right">61.100
+</td>
+<td style="text-align:right">2010
+</td>
+<td>für Distrikt<sup id="cite_ref-151" class="reference"><a href="#cite_note-151">&#91;151&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Saudi-Arabien</span><a href="/wiki/Saudi-Arabien" title="Saudi-Arabien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/20px-Flag_of_Saudi_Arabia.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/30px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/40px-Flag_of_Saudi_Arabia.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Saudi-Arabien" title="Saudi-Arabien">Saudi-Arabien</a></td>
+<td><a href="/wiki/Riad" title="Riad">Riad</a>
+</td>
+<td style="text-align:right">7.715.500
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-152" class="reference"><a href="#cite_note-152">&#91;152&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Schweden</span><a href="/wiki/Schweden" title="Schweden"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/20px-Flag_of_Sweden.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/30px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/40px-Flag_of_Sweden.svg.png 2x" data-file-width="512" data-file-height="320" /></a>&#160;<a href="/wiki/Schweden" title="Schweden">Schweden</a></td>
+<td><a href="/wiki/Stockholm" title="Stockholm">Stockholm</a>
+</td>
+<td style="text-align:right">923.500
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-153" class="reference"><a href="#cite_note-153">&#91;153&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Schweiz</span><a href="/wiki/Schweiz" title="Schweiz"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Switzerland_within_2to3.svg/20px-Flag_of_Switzerland_within_2to3.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Switzerland_within_2to3.svg/30px-Flag_of_Switzerland_within_2to3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Switzerland_within_2to3.svg/40px-Flag_of_Switzerland_within_2to3.svg.png 2x" data-file-width="450" data-file-height="300" /></a>&#160;<a href="/wiki/Schweiz" title="Schweiz">Schweiz</a></td>
+<td><a href="/wiki/Bern" title="Bern">Bern</a> <i>(de facto)</i><sup id="cite_ref-154" class="reference"><a href="#cite_note-154">&#91;154&#93;</a></sup>
+</td>
+<td style="text-align:right">130.100
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-155" class="reference"><a href="#cite_note-155">&#91;155&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Senegal</span><a href="/wiki/Senegal" title="Senegal"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/20px-Flag_of_Senegal.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/30px-Flag_of_Senegal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/40px-Flag_of_Senegal.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Senegal" title="Senegal">Senegal</a></td>
+<td><a href="/wiki/Dakar" title="Dakar">Dakar</a>
+</td>
+<td style="text-align:right">1.146.000
+</td>
+<td style="text-align:right">2013
+</td>
+<td>für Department<sup id="cite_ref-156" class="reference"><a href="#cite_note-156">&#91;156&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Serbien</span><a href="/wiki/Serbien" title="Serbien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/20px-Flag_of_Serbia.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/30px-Flag_of_Serbia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/40px-Flag_of_Serbia.svg.png 2x" data-file-width="945" data-file-height="630" /></a>&#160;<a href="/wiki/Serbien" title="Serbien">Serbien</a></td>
+<td><a href="/wiki/Belgrad" title="Belgrad">Belgrad</a>
+</td>
+<td style="text-align:right">1.344.800
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-157" class="reference"><a href="#cite_note-157">&#91;157&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Seychellen</span><a href="/wiki/Seychellen" title="Seychellen"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/20px-Flag_of_Seychelles.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/30px-Flag_of_Seychelles.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/40px-Flag_of_Seychelles.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Seychellen" title="Seychellen">Seychellen</a></td>
+<td><a href="/wiki/Victoria_(Seychellen)" title="Victoria (Seychellen)">Victoria</a>
+</td>
+<td style="text-align:right">26.500
+</td>
+<td style="text-align:right">2010
+</td>
+<td>für Großbereich<sup id="cite_ref-158" class="reference"><a href="#cite_note-158">&#91;158&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Sierra Leone</span><a href="/wiki/Sierra_Leone" title="Sierra Leone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/20px-Flag_of_Sierra_Leone.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/30px-Flag_of_Sierra_Leone.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/40px-Flag_of_Sierra_Leone.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Sierra_Leone" title="Sierra Leone">Sierra Leone</a></td>
+<td><a href="/wiki/Freetown" title="Freetown">Freetown</a>
+</td>
+<td style="text-align:right">1.056.000
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-159" class="reference"><a href="#cite_note-159">&#91;159&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Simbabwe</span><a href="/wiki/Simbabwe" title="Simbabwe"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/20px-Flag_of_Zimbabwe.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/30px-Flag_of_Zimbabwe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/40px-Flag_of_Zimbabwe.svg.png 2x" data-file-width="1260" data-file-height="630" /></a>&#160;<a href="/wiki/Simbabwe" title="Simbabwe">Simbabwe</a></td>
+<td><a href="/wiki/Harare" title="Harare">Harare</a>
+</td>
+<td style="text-align:right">969.200
+</td>
+<td style="text-align:right">2012
+</td>
+<td><sup id="cite_ref-160" class="reference"><a href="#cite_note-160">&#91;160&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Singapur</span><a href="/wiki/Singapur" title="Singapur"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/20px-Flag_of_Singapore.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/30px-Flag_of_Singapore.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/40px-Flag_of_Singapore.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Singapur" title="Singapur">Singapur</a></td>
+<td>Singapur
+</td>
+<td style="text-align:right">5.076.700
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-161" class="reference"><a href="#cite_note-161">&#91;161&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Slowakei</span><a href="/wiki/Slowakei" title="Slowakei"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/20px-Flag_of_Slovakia.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/30px-Flag_of_Slovakia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/40px-Flag_of_Slovakia.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Slowakei" title="Slowakei">Slowakei</a></td>
+<td><a href="/wiki/Bratislava" title="Bratislava">Bratislava</a>
+</td>
+<td style="text-align:right">602.400
+</td>
+<td style="text-align:right">2011
+</td>
+<td>für Großraum<sup id="cite_ref-162" class="reference"><a href="#cite_note-162">&#91;162&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Slowenien</span><a href="/wiki/Slowenien" title="Slowenien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/20px-Flag_of_Slovenia.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/30px-Flag_of_Slovenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/40px-Flag_of_Slovenia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Slowenien" title="Slowenien">Slowenien</a></td>
+<td><a href="/wiki/Ljubljana" title="Ljubljana">Ljubljana</a>
+</td>
+<td style="text-align:right">287.300
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-163" class="reference"><a href="#cite_note-163">&#91;163&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Somalia</span><a href="/wiki/Somalia" title="Somalia"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/20px-Flag_of_Somalia.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/30px-Flag_of_Somalia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/40px-Flag_of_Somalia.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Somalia" title="Somalia">Somalia</a></td>
+<td><a href="/wiki/Mogadischu" title="Mogadischu">Mogadischu</a>
+</td>
+<td style="text-align:right">2.265.000
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-164" class="reference"><a href="#cite_note-164">&#91;164&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Spanien</span><a href="/wiki/Spanien" title="Spanien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/30px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/40px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a>&#160;<a href="/wiki/Spanien" title="Spanien">Spanien</a></td>
+<td><a href="/wiki/Madrid" title="Madrid">Madrid</a>
+</td>
+<td style="text-align:right">3.142.000
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-165" class="reference"><a href="#cite_note-165">&#91;165&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Sri Lanka</span><a href="/wiki/Sri_Lanka" title="Sri Lanka"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/20px-Flag_of_Sri_Lanka.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/30px-Flag_of_Sri_Lanka.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/40px-Flag_of_Sri_Lanka.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a></td>
+<td><a href="/wiki/Sri_Jayewardenepura_Kotte" title="Sri Jayewardenepura Kotte">Sri Jayewardenepura Kotte</a>
+</td>
+<td style="text-align:right">107.500
+</td>
+<td style="text-align:right">2012
+</td>
+<td><sup id="cite_ref-166" class="reference"><a href="#cite_note-166">&#91;166&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="3"><span style="display:none">Sudafrika</span><a href="/wiki/S%C3%BCdafrika" title="Südafrika"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/20px-Flag_of_South_Africa.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/30px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/40px-Flag_of_South_Africa.svg.png 2x" data-file-width="400" data-file-height="267" /></a>&#160;<a href="/wiki/S%C3%BCdafrika" title="Südafrika">Südafrika</a></td>
+<td><a href="/wiki/Bloemfontein" title="Bloemfontein">Bloemfontein</a> <i>(Judikativsitz)</i><span class="reference"><sup id="FN_1_back"><a href="#FN_1">1</a></sup></span>
+</td>
+<td style="text-align:right">256.200
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-167" class="reference"><a href="#cite_note-167">&#91;167&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Kapstadt" title="Kapstadt">Kapstadt</a> <i>(Parlamentssitz)</i><span class="reference"><sup id="FN_1_back"><a href="#FN_1">1</a></sup></span>
+</td>
+<td style="text-align:right">3.740.000
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-168" class="reference"><a href="#cite_note-168">&#91;168&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pretoria" title="Pretoria">Pretoria</a> <i>(Regierungssitz)</i><span class="reference"><sup id="FN_1_back"><a href="#FN_1">1</a></sup></span>
+</td>
+<td style="text-align:right">741.700
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-169" class="reference"><a href="#cite_note-169">&#91;169&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Sudan</span><a href="/wiki/Sudan" title="Sudan"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/20px-Flag_of_Sudan.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/30px-Flag_of_Sudan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/40px-Flag_of_Sudan.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Sudan" title="Sudan">Sudan</a></td>
+<td><a href="/wiki/Khartum" title="Khartum">Khartum</a>
+</td>
+<td style="text-align:right">372.400
+</td>
+<td style="text-align:right">2008
+</td>
+<td><sup id="cite_ref-170" class="reference"><a href="#cite_note-170">&#91;170&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Sudsudan</span><a href="/wiki/Datei:Flag_of_South_Sudan.svg" class="image" title="Südsudan"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/20px-Flag_of_South_Sudan.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/30px-Flag_of_South_Sudan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/40px-Flag_of_South_Sudan.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/S%C3%BCdsudan" title="Südsudan">Südsudan</a></td>
+<td><a href="/wiki/Juba" title="Juba">Juba</a>
+</td>
+<td style="text-align:right">639.600
+</td>
+<td style="text-align:right">2008
+</td>
+<td><sup id="cite_ref-171" class="reference"><a href="#cite_note-171">&#91;171&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Suriname</span><a href="/wiki/Suriname" title="Suriname"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/20px-Flag_of_Suriname.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/30px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/40px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Suriname" title="Suriname">Suriname</a></td>
+<td><a href="/wiki/Paramaribo" title="Paramaribo">Paramaribo</a>
+</td>
+<td style="text-align:right">223.400
+</td>
+<td style="text-align:right">2012
+</td>
+<td><sup id="cite_ref-172" class="reference"><a href="#cite_note-172">&#91;172&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Syrien</span><a href="/wiki/Syrien" title="Syrien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/20px-Flag_of_Syria.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/30px-Flag_of_Syria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/40px-Flag_of_Syria.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Syrien" title="Syrien">Syrien</a></td>
+<td><a href="/wiki/Damaskus" title="Damaskus">Damaskus</a>
+</td>
+<td style="text-align:right">2.574.000
+</td>
+<td style="text-align:right"><i>unbek.</i>
+</td>
+<td><sup id="cite_ref-173" class="reference"><a href="#cite_note-173">&#91;173&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Tadschikistan</span><a href="/wiki/Tadschikistan" title="Tadschikistan"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/20px-Flag_of_Tajikistan.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/30px-Flag_of_Tajikistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/40px-Flag_of_Tajikistan.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Tadschikistan" title="Tadschikistan">Tadschikistan</a></td>
+<td><a href="/wiki/Duschanbe" title="Duschanbe">Duschanbe</a>
+</td>
+<td style="text-align:right">724.800
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-174" class="reference"><a href="#cite_note-174">&#91;174&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2"><span style="display:none">Tansania</span><a href="/wiki/Tansania" title="Tansania"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/20px-Flag_of_Tanzania.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/30px-Flag_of_Tanzania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/40px-Flag_of_Tanzania.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Tansania" title="Tansania">Tansania</a></td>
+<td><a href="/wiki/Dodoma" title="Dodoma">Dodoma</a> <i>(de jure)</i>
+</td>
+<td style="text-align:right">411.000
+</td>
+<td style="text-align:right">2012
+</td>
+<td><sup id="cite_ref-175" class="reference"><a href="#cite_note-175">&#91;175&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Daressalam" title="Daressalam">Daressalam</a> <i>(Regierungssitz)</i>
+</td>
+<td style="text-align:right">4.364.500
+</td>
+<td style="text-align:right">2012
+</td>
+<td>für Region<sup id="cite_ref-176" class="reference"><a href="#cite_note-176">&#91;176&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Thailand</span><a href="/wiki/Thailand" title="Thailand"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/20px-Flag_of_Thailand.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/30px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/40px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Thailand" title="Thailand">Thailand</a></td>
+<td><a href="/wiki/Bangkok" title="Bangkok">Bangkok</a>
+</td>
+<td style="text-align:right">8.305.200
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-177" class="reference"><a href="#cite_note-177">&#91;177&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Togo</span><a href="/wiki/Togo" title="Togo"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png" decoding="async" width="20" height="12" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/30px-Flag_of_Togo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/40px-Flag_of_Togo.svg.png 2x" data-file-width="809" data-file-height="500" /></a>&#160;<a href="/wiki/Togo" title="Togo">Togo</a></td>
+<td><a href="/wiki/Lom%C3%A9" title="Lomé">Lomé</a>
+</td>
+<td style="text-align:right">839.600
+</td>
+<td style="text-align:right">2010
+</td>
+<td><sup id="cite_ref-178" class="reference"><a href="#cite_note-178">&#91;178&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Tonga</span><a href="/wiki/Tonga" title="Tonga"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/20px-Flag_of_Tonga.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/30px-Flag_of_Tonga.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/40px-Flag_of_Tonga.svg.png 2x" data-file-width="960" data-file-height="480" /></a>&#160;<a href="/wiki/Tonga" title="Tonga">Tonga</a></td>
+<td><a href="/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa">Nukuʻalofa</a>
+</td>
+<td style="text-align:right">35.200
+</td>
+<td style="text-align:right">2016
+</td>
+<td><sup id="cite_ref-179" class="reference"><a href="#cite_note-179">&#91;179&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Trinidad und Tobago</span><a href="/wiki/Trinidad_und_Tobago" title="Trinidad und Tobago"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/20px-Flag_of_Trinidad_and_Tobago.svg.png" decoding="async" width="20" height="12" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/30px-Flag_of_Trinidad_and_Tobago.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/40px-Flag_of_Trinidad_and_Tobago.svg.png 2x" data-file-width="800" data-file-height="480" /></a>&#160;<a href="/wiki/Trinidad_und_Tobago" title="Trinidad und Tobago">Trinidad und Tobago</a></td>
+<td><a href="/wiki/Port_of_Spain" title="Port of Spain">Port of Spain</a>
+</td>
+<td style="text-align:right">37.100
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-180" class="reference"><a href="#cite_note-180">&#91;180&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Tschad</span><a href="/wiki/Tschad" title="Tschad"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/20px-Flag_of_Chad.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/30px-Flag_of_Chad.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/40px-Flag_of_Chad.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Tschad" title="Tschad">Tschad</a></td>
+<td><a href="/wiki/N%E2%80%99Djamena" title="N’Djamena">N’Djamena</a>
+</td>
+<td style="text-align:right">993.500
+</td>
+<td style="text-align:right">2009
+</td>
+<td><sup id="cite_ref-181" class="reference"><a href="#cite_note-181">&#91;181&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Tschechien</span><a href="/wiki/Tschechien" title="Tschechien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/20px-Flag_of_the_Czech_Republic.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/30px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/40px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Tschechien" title="Tschechien">Tschechien</a></td>
+<td><a href="/wiki/Prag" title="Prag">Prag</a>
+</td>
+<td style="text-align:right">1.268.800
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-182" class="reference"><a href="#cite_note-182">&#91;182&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Tunesien</span><a href="/wiki/Tunesien" title="Tunesien"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/20px-Flag_of_Tunisia.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/30px-Flag_of_Tunisia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/40px-Flag_of_Tunisia.svg.png 2x" data-file-width="1200" data-file-height="800" /></a>&#160;<a href="/wiki/Tunesien" title="Tunesien">Tunesien</a></td>
+<td><a href="/wiki/Tunis" title="Tunis">Tunis</a>
+</td>
+<td style="text-align:right">1.058.600
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-183" class="reference"><a href="#cite_note-183">&#91;183&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Turkei</span><a href="/wiki/T%C3%BCrkei" title="Türkei"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/20px-Flag_of_Turkey.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/30px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/40px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" /></a>&#160;<a href="/wiki/T%C3%BCrkei" title="Türkei">Türkei</a></td>
+<td><a href="/wiki/Ankara" title="Ankara">Ankara</a>
+</td>
+<td style="text-align:right">5.270.600
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-184" class="reference"><a href="#cite_note-184">&#91;184&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Turkmenistan</span><a href="/wiki/Turkmenistan" title="Turkmenistan"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/20px-Flag_of_Turkmenistan.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/30px-Flag_of_Turkmenistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/40px-Flag_of_Turkmenistan.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Turkmenistan" title="Turkmenistan">Turkmenistan</a></td>
+<td><a href="/wiki/A%C5%9Fgabat" title="Aşgabat">Aşgabat</a>
+</td>
+<td style="text-align:right">604.700
+</td>
+<td style="text-align:right">1999
+</td>
+<td><sup id="cite_ref-185" class="reference"><a href="#cite_note-185">&#91;185&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Tuvalu</span><a href="/wiki/Tuvalu" title="Tuvalu"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/20px-Flag_of_Tuvalu.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/30px-Flag_of_Tuvalu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/40px-Flag_of_Tuvalu.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Tuvalu" title="Tuvalu">Tuvalu</a></td>
+<td><a href="/wiki/Funafuti" title="Funafuti">Funafuti</a>
+</td>
+<td style="text-align:right">6.200
+</td>
+<td style="text-align:right">2012
+</td>
+<td><sup id="cite_ref-186" class="reference"><a href="#cite_note-186">&#91;186&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Uganda</span><a href="/wiki/Uganda" title="Uganda"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/20px-Flag_of_Uganda.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/30px-Flag_of_Uganda.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/40px-Flag_of_Uganda.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Uganda" title="Uganda">Uganda</a></td>
+<td><a href="/wiki/Kampala" title="Kampala">Kampala</a>
+</td>
+<td style="text-align:right">1.507.100
+</td>
+<td style="text-align:right">2014
+</td>
+<td><sup id="cite_ref-187" class="reference"><a href="#cite_note-187">&#91;187&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Ukraine</span><span style="white-space:nowrap"><a href="/wiki/Ukraine" title="Ukraine"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/20px-Flag_of_Ukraine.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/30px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/40px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800" /></a>&#32;<a href="/wiki/Ukraine" title="Ukraine">Ukraine</a></span></td>
+<td><a href="/wiki/Kiew" title="Kiew">Kiew</a>
+</td>
+<td style="text-align:right">2.567.000
+</td>
+<td style="text-align:right">2001
+</td>
+<td><sup id="cite_ref-188" class="reference"><a href="#cite_note-188">&#91;188&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Ungarn</span><a href="/wiki/Ungarn" title="Ungarn"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/20px-Flag_of_Hungary.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/30px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/40px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Ungarn" title="Ungarn">Ungarn</a></td>
+<td><a href="/wiki/Budapest" title="Budapest">Budapest</a>
+</td>
+<td style="text-align:right">1.729.000
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-189" class="reference"><a href="#cite_note-189">&#91;189&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Uruguay</span><a href="/wiki/Uruguay" title="Uruguay"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/20px-Flag_of_Uruguay.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/30px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/40px-Flag_of_Uruguay.svg.png 2x" data-file-width="945" data-file-height="630" /></a>&#160;<a href="/wiki/Uruguay" title="Uruguay">Uruguay</a></td>
+<td><a href="/wiki/Montevideo" title="Montevideo">Montevideo</a>
+</td>
+<td style="text-align:right">1.319.100
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-190" class="reference"><a href="#cite_note-190">&#91;190&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Usbekistan</span><a href="/wiki/Usbekistan" title="Usbekistan"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/20px-Flag_of_Uzbekistan.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/30px-Flag_of_Uzbekistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/40px-Flag_of_Uzbekistan.svg.png 2x" data-file-width="1000" data-file-height="500" /></a>&#160;<a href="/wiki/Usbekistan" title="Usbekistan">Usbekistan</a></td>
+<td><a href="/wiki/Taschkent" title="Taschkent">Taschkent</a>
+</td>
+<td style="text-align:right">2.393.200
+</td>
+<td style="text-align:right">2016
+</td>
+<td><sup id="cite_ref-191" class="reference"><a href="#cite_note-191">&#91;191&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Vanuatu</span><a href="/wiki/Vanuatu" title="Vanuatu"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/20px-Flag_of_Vanuatu.svg.png" decoding="async" width="20" height="12" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/30px-Flag_of_Vanuatu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/40px-Flag_of_Vanuatu.svg.png 2x" data-file-width="600" data-file-height="360" /></a>&#160;<a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a></td>
+<td><a href="/wiki/Port_Vila" title="Port Vila">Port Vila</a>
+</td>
+<td style="text-align:right">44.000
+</td>
+<td style="text-align:right">2009
+</td>
+<td><sup id="cite_ref-192" class="reference"><a href="#cite_note-192">&#91;192&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none;">Vatikanstadt</span><a href="/wiki/Vatikanstadt" title="Vatikan"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/20px-Flag_of_the_Vatican_City.svg.png" decoding="async" width="20" height="20" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/30px-Flag_of_the_Vatican_City.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/40px-Flag_of_the_Vatican_City.svg.png 2x" data-file-width="500" data-file-height="500" /></a>&#160;<a href="/wiki/Vatikanstadt" title="Vatikanstadt">Vatikanstadt</a></td>
+<td><a href="/wiki/Vatikanstadt" title="Vatikanstadt">Vatikanstadt</a>
+</td>
+<td style="text-align:right">618
+</td>
+<td style="text-align:right">2018
+</td>
+<td><sup id="cite_ref-193" class="reference"><a href="#cite_note-193">&#91;193&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Venezuela</span><a href="/wiki/Venezuela" title="Venezuela"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/20px-Flag_of_Venezuela.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/30px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/40px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Venezuela" title="Venezuela">Venezuela</a></td>
+<td><a href="/wiki/Caracas" title="Caracas">Caracas</a>
+</td>
+<td style="text-align:right">3.300.300
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-194" class="reference"><a href="#cite_note-194">&#91;194&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Vereinigte Arabische Emirate</span><a href="/wiki/Vereinigte_Arabische_Emirate" title="Vereinigte Arabische Emirate"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/20px-Flag_of_the_United_Arab_Emirates.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/30px-Flag_of_the_United_Arab_Emirates.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/40px-Flag_of_the_United_Arab_Emirates.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Vereinigte_Arabische_Emirate" title="Vereinigte Arabische Emirate">Vereinigte Arabische Emirate</a></td>
+<td><a href="/wiki/Abu_Dhabi" title="Abu Dhabi">Abu Dhabi</a>
+</td>
+<td style="text-align:right">1.800.000
+</td>
+<td style="text-align:right">2016
+</td>
+<td>für Region<sup id="cite_ref-195" class="reference"><a href="#cite_note-195">&#91;195&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Vereinigtes Konigreich</span><a href="/wiki/Vereinigtes_K%C3%B6nigreich" title="Vereinigtes Königreich"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="20" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/30px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/40px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>&#160;<a href="/wiki/Vereinigtes_K%C3%B6nigreich" title="Vereinigtes Königreich">Vereinigtes Königreich</a></td>
+<td><a href="/wiki/London" title="London">London</a>
+</td>
+<td style="text-align:right">8.170.000
+</td>
+<td style="text-align:right">2011
+</td>
+<td><sup id="cite_ref-196" class="reference"><a href="#cite_note-196">&#91;196&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Vereinigte Staaten</span><a href="/wiki/Vereinigte_Staaten_von_Amerika" title="Vereinigte Staaten"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/20px-Flag_of_the_United_States.svg.png" decoding="async" width="20" height="11" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/30px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a>&#160;<a href="/wiki/Vereinigte_Staaten_von_Amerika" class="mw-redirect" title="Vereinigte Staaten von Amerika">Vereinigte Staaten</a></td>
+<td><a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a>
+</td>
+<td style="text-align:right">672.200
+</td>
+<td style="text-align:right">2015
+</td>
+<td><sup id="cite_ref-197" class="reference"><a href="#cite_note-197">&#91;197&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Vietnam</span><a href="/wiki/Vietnam" title="Vietnam"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/20px-Flag_of_Vietnam.svg.png" decoding="async" width="20" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/30px-Flag_of_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/40px-Flag_of_Vietnam.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Vietnam" title="Vietnam">Vietnam</a></td>
+<td><a href="/wiki/Hanoi" title="Hanoi">Hanoi</a>
+</td>
+<td style="text-align:right">6.451.900
+</td>
+<td style="text-align:right">2009
+</td>
+<td><sup id="cite_ref-198" class="reference"><a href="#cite_note-198">&#91;198&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Zentralafrikanische Republik</span><a href="/wiki/Zentralafrikanische_Republik" title="Zentralafrikanische Republik"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/20px-Flag_of_the_Central_African_Republic.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/30px-Flag_of_the_Central_African_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/40px-Flag_of_the_Central_African_Republic.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Zentralafrikanische_Republik" title="Zentralafrikanische Republik">Zentralafrikanische Republik</a></td>
+<td><a href="/wiki/Bangui" title="Bangui">Bangui</a>
+</td>
+<td style="text-align:right">622.800
+</td>
+<td style="text-align:right">2003
+</td>
+<td><sup id="cite_ref-199" class="reference"><a href="#cite_note-199">&#91;199&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span style="display:none">Zypern Republik</span><a href="/wiki/Republik_Zypern" title="Republik Zypern"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/20px-Flag_of_Cyprus.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/30px-Flag_of_Cyprus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/40px-Flag_of_Cyprus.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Republik_Zypern" title="Republik Zypern">Zypern</a></td>
+<td><a href="/wiki/Nikosia" title="Nikosia">Nikosia</a>
